@@ -1,0 +1,1458 @@
+{
+  "home": {
+    "hero": {
+      "heroBox": {
+        "h": 900,
+        "w": 1440,
+        "vh": 900,
+        "vw": 1440,
+        "equalsViewport": true,
+        "cls": "hero"
+      },
+      "heroImg": {
+        "src": "hero-cloche.jpg",
+        "covered": true,
+        "h": 900,
+        "w": 1440,
+        "fit": "cover"
+      },
+      "heroImgStyle": "linear-gradient(90deg, rgba(10, 10, 12, 0.72) 0%, rgba(10, 10, 12, 0.25) 55%, rgba(10, 10, 12, 0.1) 100%)",
+      "h1": {
+        "text": "CuisineSensationsÉmotions",
+        "html": "<span data-v-44b7e0e3=\"\" class=\"hero__line\">Cuisine</span><span data-v-44b7e0e3=\"\" class=\"hero__line hero__line--accent\">Sensations</span><span data-v-44b7e0e3=\"\" class=\"hero__line\">Émotions</span>",
+        "children": [
+          {
+            "txt": "Cuisine",
+            "color": "rgb(236, 231, 219)",
+            "size": "104px"
+          },
+          {
+            "txt": "Sensations",
+            "color": "rgb(217, 79, 158)",
+            "size": "104px"
+          },
+          {
+            "txt": "Émotions",
+            "color": "rgb(236, 231, 219)",
+            "size": "104px"
+          }
+        ],
+        "lines": 1,
+        "size": "104px"
+      },
+      "counters": [],
+      "hasMagentaLine": 1
+    },
+    "alphaContrast": [
+      {
+        "text": "Notre philosophie",
+        "cls": "kicker",
+        "color": "rgb(217, 79, 158)",
+        "effAlpha": 1,
+        "size": 11.2,
+        "weight": 400,
+        "ratio": 3.06,
+        "min": 4.5,
+        "overImage": false
+      },
+      {
+        "text": "En savoir plus →",
+        "cls": "text-link",
+        "color": "rgb(217, 79, 158)",
+        "effAlpha": 1,
+        "size": 11.52,
+        "weight": 400,
+        "ratio": 3.06,
+        "min": 4.5,
+        "overImage": false
+      }
+    ],
+    "anim": {
+      "before": {
+        "total": 7,
+        "hiddenInView": 0,
+        "inViewDetails": [],
+        "offscreenAnimated": 7
+      },
+      "after": {
+        "total": 7,
+        "hiddenInView": 3,
+        "inViewDetails": [
+          {
+            "cls": "",
+            "op": 1,
+            "tf": "matrix(1.0953, 0, 0, 1.0953, 0, 0)",
+            "inView": true,
+            "top": -164
+          },
+          {
+            "cls": "",
+            "op": 1,
+            "tf": "matrix(1.0953, 0, 0, 1.0953, 0, 0)",
+            "inView": true,
+            "top": -164
+          },
+          {
+            "cls": "",
+            "op": 1,
+            "tf": "matrix(1.0952, 0, 0, 1.0952, 0, 0)",
+            "inView": true,
+            "top": -164
+          }
+        ],
+        "offscreenAnimated": 1
+      }
+    },
+    "a11y": {
+      "inputs": [],
+      "smallTapTargets": [
+        {
+          "tag": "a",
+          "txt": "Le concept",
+          "w": 97,
+          "h": 14
+        },
+        {
+          "tag": "a",
+          "txt": "Le menu",
+          "w": 70,
+          "h": 14
+        },
+        {
+          "tag": "a",
+          "txt": "Réserver une table →",
+          "w": 236,
+          "h": 40
+        },
+        {
+          "tag": "a",
+          "txt": "→ Découvrir l'expérience",
+          "w": 268,
+          "h": 38
+        },
+        {
+          "tag": "a",
+          "txt": "En savoir plus →",
+          "w": 152,
+          "h": 18
+        },
+        {
+          "tag": "a",
+          "txt": "Le concept",
+          "w": 90,
+          "h": 15
+        },
+        {
+          "tag": "a",
+          "txt": "Le menu",
+          "w": 63,
+          "h": 15
+        },
+        {
+          "tag": "a",
+          "txt": "Réserver",
+          "w": 72,
+          "h": 15
+        },
+        {
+          "tag": "button",
+          "txt": "Haut de page ↑",
+          "w": 118,
+          "h": 18
+        }
+      ],
+      "smallTapCount": 9,
+      "imgsNoAlt": 1,
+      "linksNoText": 0,
+      "h1Count": 1,
+      "landmarks": {
+        "header": false,
+        "main": true,
+        "footer": true,
+        "nav": true
+      },
+      "skipLink": false,
+      "reducedMotionCSS": true
+    },
+    "perf": {
+      "by": {
+        "script": {
+          "n": 40,
+          "bytes": 3036419
+        },
+        "css": {
+          "n": 1,
+          "bytes": 1100
+        },
+        "img": {
+          "n": 5,
+          "bytes": 3022526
+        },
+        "other": {
+          "n": 1,
+          "bytes": 938
+        }
+      },
+      "totalKB": 5919,
+      "imgCount": 5,
+      "imgs": [
+        {
+          "f": "salle-magenta.jpg",
+          "kb": 650,
+          "t": 12
+        },
+        {
+          "f": "hero-cloche.jpg",
+          "kb": 623,
+          "t": 11
+        },
+        {
+          "f": "mains-dressage.jpg",
+          "kb": 588,
+          "t": 12
+        },
+        {
+          "f": "plat-sphere.jpg",
+          "kb": 560,
+          "t": 11
+        },
+        {
+          "f": "verre-vin.jpg",
+          "kb": 531,
+          "t": 11
+        }
+      ],
+      "fonts": [],
+      "domContentLoaded": 130,
+      "loadEvent": 175
+    },
+    "imgsAfter": [
+      {
+        "f": "hero-cloche.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "salle-magenta.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "plat-sphere.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "mains-dressage.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "verre-vin.jpg",
+        "nat": "1376x768",
+        "ok": true
+      }
+    ]
+  },
+  "degustation": {
+    "hero": {
+      "heroBox": {
+        "h": 897,
+        "w": 1440,
+        "vh": 900,
+        "vw": 1440,
+        "equalsViewport": true,
+        "cls": "page-section page-section--dark page-hero"
+      },
+      "heroImg": {
+        "src": "dessert-fumee.jpg",
+        "covered": false,
+        "h": 452,
+        "w": 1057,
+        "fit": "cover"
+      },
+      "heroImgStyle": null,
+      "h1": {
+        "text": "Le|menu",
+        "html": "Le menu",
+        "children": [],
+        "lines": 1,
+        "size": "54.4px"
+      },
+      "counters": [],
+      "hasMagentaLine": 0
+    },
+    "alphaContrast": [],
+    "anim": {
+      "before": {
+        "total": 13,
+        "hiddenInView": 1,
+        "inViewDetails": [
+          {
+            "cls": "",
+            "op": 1,
+            "tf": "matrix(1.0678, 0, 0, 1.0678, 0, 0)",
+            "inView": true,
+            "top": 411
+          }
+        ],
+        "offscreenAnimated": 10
+      },
+      "after": {
+        "total": 13,
+        "hiddenInView": 0,
+        "inViewDetails": [],
+        "offscreenAnimated": 1
+      }
+    },
+    "a11y": {
+      "inputs": [],
+      "smallTapTargets": [
+        {
+          "tag": "a",
+          "txt": "Le concept",
+          "w": 97,
+          "h": 14
+        },
+        {
+          "tag": "a",
+          "txt": "Le menu",
+          "w": 70,
+          "h": 14
+        },
+        {
+          "tag": "a",
+          "txt": "Réserver une table →",
+          "w": 236,
+          "h": 40
+        },
+        {
+          "tag": "a",
+          "txt": "Le concept",
+          "w": 90,
+          "h": 15
+        },
+        {
+          "tag": "a",
+          "txt": "Le menu",
+          "w": 63,
+          "h": 15
+        },
+        {
+          "tag": "a",
+          "txt": "Réserver",
+          "w": 72,
+          "h": 15
+        },
+        {
+          "tag": "button",
+          "txt": "Haut de page ↑",
+          "w": 118,
+          "h": 18
+        }
+      ],
+      "smallTapCount": 7,
+      "imgsNoAlt": 0,
+      "linksNoText": 0,
+      "h1Count": 1,
+      "landmarks": {
+        "header": false,
+        "main": true,
+        "footer": true,
+        "nav": true
+      },
+      "skipLink": false,
+      "reducedMotionCSS": true
+    },
+    "perf": {
+      "by": {
+        "script": {
+          "n": 40,
+          "bytes": 3036419
+        },
+        "css": {
+          "n": 1,
+          "bytes": 1100
+        },
+        "img": {
+          "n": 6,
+          "bytes": 3621952
+        },
+        "other": {
+          "n": 1,
+          "bytes": 938
+        }
+      },
+      "totalKB": 6504,
+      "imgCount": 6,
+      "imgs": [
+        {
+          "f": "plat-extra.jpg",
+          "kb": 757,
+          "t": 13
+        },
+        {
+          "f": "plat-plongee.jpg",
+          "kb": 586,
+          "t": 12
+        },
+        {
+          "f": "plat-sphere.jpg",
+          "kb": 560,
+          "t": 11
+        },
+        {
+          "f": "cocktail-noir.jpg",
+          "kb": 560,
+          "t": 4
+        },
+        {
+          "f": "caviar-macro.jpg",
+          "kb": 552,
+          "t": 12
+        },
+        {
+          "f": "dessert-fumee.jpg",
+          "kb": 522,
+          "t": 3
+        }
+      ],
+      "fonts": [],
+      "domContentLoaded": 109,
+      "loadEvent": 143
+    },
+    "imgsAfter": [
+      {
+        "f": "dessert-fumee.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "plat-sphere.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "caviar-macro.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "plat-extra.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "plat-plongee.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "dessert-fumee.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "cocktail-noir.jpg",
+        "nat": "1376x768",
+        "ok": true
+      }
+    ]
+  },
+  "reserver": {
+    "hero": {
+      "heroBox": {
+        "h": 768,
+        "w": 1440,
+        "vh": 900,
+        "vw": 1440,
+        "equalsViewport": false,
+        "cls": "page-section page-section--dark page-hero"
+      },
+      "heroImg": {
+        "src": "porte-exterieur.jpg",
+        "covered": false,
+        "h": 348,
+        "w": 618,
+        "fit": "cover"
+      },
+      "heroImgStyle": null,
+      "h1": {
+        "text": "Réserver",
+        "html": "Réserver",
+        "children": [],
+        "lines": 1,
+        "size": "54.4px"
+      },
+      "counters": [],
+      "hasMagentaLine": 0
+    },
+    "alphaContrast": [],
+    "anim": {
+      "before": {
+        "total": 9,
+        "hiddenInView": 2,
+        "inViewDetails": [
+          {
+            "cls": "",
+            "op": 1,
+            "tf": "matrix(1.0719, 0, 0, 1.0719, 0, 0)",
+            "inView": true,
+            "top": 382
+          },
+          {
+            "cls": "",
+            "op": 1,
+            "tf": "matrix(1.0745, 0, 0, 1.0745, 0, 0)",
+            "inView": true,
+            "top": 385
+          }
+        ],
+        "offscreenAnimated": 4
+      },
+      "after": {
+        "total": 9,
+        "hiddenInView": 0,
+        "inViewDetails": [],
+        "offscreenAnimated": 2
+      }
+    },
+    "a11y": {
+      "inputs": [
+        {
+          "type": "text",
+          "id": null,
+          "name": null,
+          "hasLabelFor": false,
+          "wrappingLabel": true,
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "placeholder": null,
+          "autocomplete": "name",
+          "required": true,
+          "inputmode": null
+        },
+        {
+          "type": "email",
+          "id": null,
+          "name": null,
+          "hasLabelFor": false,
+          "wrappingLabel": true,
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "placeholder": null,
+          "autocomplete": "email",
+          "required": true,
+          "inputmode": null
+        },
+        {
+          "type": "date",
+          "id": null,
+          "name": null,
+          "hasLabelFor": false,
+          "wrappingLabel": true,
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "placeholder": null,
+          "autocomplete": null,
+          "required": true,
+          "inputmode": null
+        },
+        {
+          "type": "select-one",
+          "id": null,
+          "name": null,
+          "hasLabelFor": false,
+          "wrappingLabel": true,
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "placeholder": null,
+          "autocomplete": null,
+          "required": false,
+          "inputmode": null
+        },
+        {
+          "type": "radio",
+          "id": null,
+          "name": null,
+          "hasLabelFor": false,
+          "wrappingLabel": true,
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "placeholder": null,
+          "autocomplete": null,
+          "required": false,
+          "inputmode": null
+        },
+        {
+          "type": "radio",
+          "id": null,
+          "name": null,
+          "hasLabelFor": false,
+          "wrappingLabel": true,
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "placeholder": null,
+          "autocomplete": null,
+          "required": false,
+          "inputmode": null
+        },
+        {
+          "type": "text",
+          "id": null,
+          "name": null,
+          "hasLabelFor": false,
+          "wrappingLabel": true,
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "placeholder": "Fruits à coque, végétal…",
+          "autocomplete": null,
+          "required": false,
+          "inputmode": null
+        }
+      ],
+      "smallTapTargets": [
+        {
+          "tag": "a",
+          "txt": "Le concept",
+          "w": 97,
+          "h": 14
+        },
+        {
+          "tag": "a",
+          "txt": "Le menu",
+          "w": 70,
+          "h": 14
+        },
+        {
+          "tag": "a",
+          "txt": "Réserver une table →",
+          "w": 236,
+          "h": 40
+        },
+        {
+          "tag": "input",
+          "txt": "",
+          "w": 1,
+          "h": 1
+        },
+        {
+          "tag": "input",
+          "txt": "",
+          "w": 1,
+          "h": 1
+        },
+        {
+          "tag": "a",
+          "txt": "Le concept",
+          "w": 90,
+          "h": 15
+        },
+        {
+          "tag": "a",
+          "txt": "Le menu",
+          "w": 63,
+          "h": 15
+        },
+        {
+          "tag": "a",
+          "txt": "Réserver",
+          "w": 72,
+          "h": 15
+        },
+        {
+          "tag": "button",
+          "txt": "Haut de page ↑",
+          "w": 118,
+          "h": 18
+        }
+      ],
+      "smallTapCount": 9,
+      "imgsNoAlt": 0,
+      "linksNoText": 0,
+      "h1Count": 1,
+      "landmarks": {
+        "header": false,
+        "main": true,
+        "footer": true,
+        "nav": true
+      },
+      "skipLink": false,
+      "reducedMotionCSS": true
+    },
+    "perf": {
+      "by": {
+        "script": {
+          "n": 40,
+          "bytes": 3036419
+        },
+        "css": {
+          "n": 1,
+          "bytes": 1100
+        },
+        "img": {
+          "n": 2,
+          "bytes": 1221762
+        },
+        "other": {
+          "n": 1,
+          "bytes": 938
+        }
+      },
+      "totalKB": 4160,
+      "imgCount": 2,
+      "imgs": [
+        {
+          "f": "porte-exterieur.jpg",
+          "kb": 623,
+          "t": 4
+        },
+        {
+          "f": "table-detail.jpg",
+          "kb": 570,
+          "t": 4
+        }
+      ],
+      "fonts": [],
+      "domContentLoaded": 114,
+      "loadEvent": 142
+    },
+    "imgsAfter": [
+      {
+        "f": "porte-exterieur.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "table-detail.jpg",
+        "nat": "1376x768",
+        "ok": true
+      }
+    ]
+  },
+  "laboratoire": {
+    "hero": {
+      "heroBox": {
+        "h": 897,
+        "w": 1440,
+        "vh": 900,
+        "vw": 1440,
+        "equalsViewport": true,
+        "cls": "page-section page-section--dark page-hero"
+      },
+      "heroImg": {
+        "src": "ingredients-etale.jpg",
+        "covered": false,
+        "h": 453,
+        "w": 1059,
+        "fit": "cover"
+      },
+      "heroImgStyle": null,
+      "h1": {
+        "text": "Le|laboratoire",
+        "html": "Le laboratoire",
+        "children": [],
+        "lines": 1,
+        "size": "54.4px"
+      },
+      "counters": [],
+      "hasMagentaLine": 0
+    },
+    "alphaContrast": [
+      {
+        "text": "L'expérimentatrice",
+        "cls": "kicker",
+        "color": "rgb(217, 79, 158)",
+        "effAlpha": 1,
+        "size": 11.2,
+        "weight": 400,
+        "ratio": 3.06,
+        "min": 4.5,
+        "overImage": false
+      },
+      {
+        "text": "Cheffe & fondatrice",
+        "cls": "chef__role",
+        "color": "rgb(217, 79, 158)",
+        "effAlpha": 1,
+        "size": 11.52,
+        "weight": 300,
+        "ratio": 3.06,
+        "min": 4.5,
+        "overImage": false
+      }
+    ],
+    "anim": {
+      "before": {
+        "total": 19,
+        "hiddenInView": 1,
+        "inViewDetails": [
+          {
+            "cls": "",
+            "op": 1,
+            "tf": "matrix(1.0695, 0, 0, 1.0695, 0, 0)",
+            "inView": true,
+            "top": 411
+          }
+        ],
+        "offscreenAnimated": 16
+      },
+      "after": {
+        "total": 19,
+        "hiddenInView": 1,
+        "inViewDetails": [
+          {
+            "cls": "",
+            "op": 1,
+            "tf": "matrix(1.12, 0, 0, 1.12, 0, 0)",
+            "inView": true,
+            "top": -511
+          }
+        ],
+        "offscreenAnimated": 2
+      }
+    },
+    "a11y": {
+      "inputs": [],
+      "smallTapTargets": [
+        {
+          "tag": "a",
+          "txt": "Le concept",
+          "w": 97,
+          "h": 14
+        },
+        {
+          "tag": "a",
+          "txt": "Le menu",
+          "w": 70,
+          "h": 14
+        },
+        {
+          "tag": "a",
+          "txt": "Réserver une table →",
+          "w": 236,
+          "h": 40
+        },
+        {
+          "tag": "a",
+          "txt": "Le concept",
+          "w": 90,
+          "h": 15
+        },
+        {
+          "tag": "a",
+          "txt": "Le menu",
+          "w": 63,
+          "h": 15
+        },
+        {
+          "tag": "a",
+          "txt": "Réserver",
+          "w": 72,
+          "h": 15
+        },
+        {
+          "tag": "button",
+          "txt": "Haut de page ↑",
+          "w": 118,
+          "h": 18
+        }
+      ],
+      "smallTapCount": 7,
+      "imgsNoAlt": 1,
+      "linksNoText": 0,
+      "h1Count": 1,
+      "landmarks": {
+        "header": false,
+        "main": true,
+        "footer": true,
+        "nav": true
+      },
+      "skipLink": false,
+      "reducedMotionCSS": true
+    },
+    "perf": {
+      "by": {
+        "script": {
+          "n": 40,
+          "bytes": 3036419
+        },
+        "css": {
+          "n": 1,
+          "bytes": 1100
+        },
+        "img": {
+          "n": 3,
+          "bytes": 1793500
+        },
+        "other": {
+          "n": 1,
+          "bytes": 938
+        }
+      },
+      "totalKB": 4719,
+      "imgCount": 3,
+      "imgs": [
+        {
+          "f": "ingredients-etale.jpg",
+          "kb": 610,
+          "t": 6
+        },
+        {
+          "f": "bar-comptoir.jpg",
+          "kb": 583,
+          "t": 6
+        },
+        {
+          "f": "cuisine-silhouette.jpg",
+          "kb": 558,
+          "t": 6
+        }
+      ],
+      "fonts": [],
+      "domContentLoaded": 111,
+      "loadEvent": 136
+    },
+    "imgsAfter": [
+      {
+        "f": "ingredients-etale.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "bar-comptoir.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "cuisine-silhouette.jpg",
+        "nat": "1376x768",
+        "ok": true
+      }
+    ]
+  },
+  "homeMobile": {
+    "hero": {
+      "heroBox": {
+        "h": 812,
+        "w": 375,
+        "vh": 812,
+        "vw": 375,
+        "equalsViewport": true,
+        "cls": "hero"
+      },
+      "heroImg": {
+        "src": "hero-cloche.jpg",
+        "covered": true,
+        "h": 812,
+        "w": 375,
+        "fit": "cover"
+      },
+      "heroImgStyle": "linear-gradient(90deg, rgba(10, 10, 12, 0.72) 0%, rgba(10, 10, 12, 0.25) 55%, rgba(10, 10, 12, 0.1) 100%)",
+      "h1": {
+        "text": "CuisineSensationsÉmotions",
+        "html": "<span data-v-44b7e0e3=\"\" class=\"hero__line\">Cuisine</span><span data-v-44b7e0e3=\"\" class=\"hero__line hero__line--accent\">Sensations</span><span data-v-44b7e0e3=\"\" class=\"hero__line\">Émotions</span>",
+        "children": [
+          {
+            "txt": "Cuisine",
+            "color": "rgb(236, 231, 219)",
+            "size": "41.6px"
+          },
+          {
+            "txt": "Sensations",
+            "color": "rgb(217, 79, 158)",
+            "size": "41.6px"
+          },
+          {
+            "txt": "Émotions",
+            "color": "rgb(236, 231, 219)",
+            "size": "41.6px"
+          }
+        ],
+        "lines": 1,
+        "size": "41.6px"
+      },
+      "counters": [],
+      "hasMagentaLine": 1
+    },
+    "alphaContrast": [
+      {
+        "text": "Notre philosophie",
+        "cls": "kicker",
+        "color": "rgb(217, 79, 158)",
+        "effAlpha": 1,
+        "size": 11.2,
+        "weight": 400,
+        "ratio": 3.06,
+        "min": 4.5,
+        "overImage": false
+      },
+      {
+        "text": "En savoir plus →",
+        "cls": "text-link",
+        "color": "rgb(217, 79, 158)",
+        "effAlpha": 1,
+        "size": 11.52,
+        "weight": 400,
+        "ratio": 3.06,
+        "min": 4.5,
+        "overImage": false
+      }
+    ],
+    "anim": {
+      "before": {
+        "total": 7,
+        "hiddenInView": 0,
+        "inViewDetails": [],
+        "offscreenAnimated": 7
+      },
+      "after": {
+        "total": 7,
+        "hiddenInView": 1,
+        "inViewDetails": [
+          {
+            "cls": "",
+            "op": 1,
+            "tf": "matrix(1.1019, 0, 0, 1.1019, 0, 0)",
+            "inView": true,
+            "top": -174
+          }
+        ],
+        "offscreenAnimated": 3
+      }
+    },
+    "a11y": {
+      "inputs": [],
+      "smallTapTargets": [
+        {
+          "tag": "button",
+          "txt": "",
+          "w": 40,
+          "h": 40
+        },
+        {
+          "tag": "a",
+          "txt": "Le concept",
+          "w": 200,
+          "h": 32
+        },
+        {
+          "tag": "a",
+          "txt": "Le menu",
+          "w": 146,
+          "h": 32
+        },
+        {
+          "tag": "a",
+          "txt": "Réserver",
+          "w": 168,
+          "h": 32
+        },
+        {
+          "tag": "a",
+          "txt": "→ Découvrir l'expérience",
+          "w": 268,
+          "h": 38
+        },
+        {
+          "tag": "a",
+          "txt": "En savoir plus →",
+          "w": 152,
+          "h": 18
+        },
+        {
+          "tag": "a",
+          "txt": "Le concept",
+          "w": 90,
+          "h": 15
+        },
+        {
+          "tag": "a",
+          "txt": "Le menu",
+          "w": 63,
+          "h": 15
+        },
+        {
+          "tag": "a",
+          "txt": "Réserver",
+          "w": 72,
+          "h": 15
+        },
+        {
+          "tag": "button",
+          "txt": "Haut de page ↑",
+          "w": 118,
+          "h": 18
+        }
+      ],
+      "smallTapCount": 10,
+      "imgsNoAlt": 1,
+      "linksNoText": 0,
+      "h1Count": 1,
+      "landmarks": {
+        "header": false,
+        "main": true,
+        "footer": true,
+        "nav": true
+      },
+      "skipLink": false,
+      "reducedMotionCSS": true
+    },
+    "perf": {
+      "by": {
+        "script": {
+          "n": 40,
+          "bytes": 3036419
+        },
+        "css": {
+          "n": 1,
+          "bytes": 1100
+        },
+        "img": {
+          "n": 5,
+          "bytes": 3022526
+        },
+        "other": {
+          "n": 1,
+          "bytes": 938
+        }
+      },
+      "totalKB": 5919,
+      "imgCount": 5,
+      "imgs": [
+        {
+          "f": "salle-magenta.jpg",
+          "kb": 650,
+          "t": 9
+        },
+        {
+          "f": "hero-cloche.jpg",
+          "kb": 623,
+          "t": 9
+        },
+        {
+          "f": "mains-dressage.jpg",
+          "kb": 588,
+          "t": 9
+        },
+        {
+          "f": "plat-sphere.jpg",
+          "kb": 560,
+          "t": 9
+        },
+        {
+          "f": "verre-vin.jpg",
+          "kb": 531,
+          "t": 9
+        }
+      ],
+      "fonts": [],
+      "domContentLoaded": 103,
+      "loadEvent": 130
+    },
+    "imgsAfter": [
+      {
+        "f": "hero-cloche.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "salle-magenta.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "plat-sphere.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "mains-dressage.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "verre-vin.jpg",
+        "nat": "1376x768",
+        "ok": true
+      }
+    ]
+  },
+  "reserverMobile": {
+    "hero": {
+      "heroBox": {
+        "h": 807,
+        "w": 375,
+        "vh": 812,
+        "vw": 375,
+        "equalsViewport": false,
+        "cls": "page-section page-section--dark page-hero"
+      },
+      "heroImg": {
+        "src": "porte-exterieur.jpg",
+        "covered": false,
+        "h": 201,
+        "w": 358,
+        "fit": "cover"
+      },
+      "heroImgStyle": null,
+      "h1": {
+        "text": "Réserver",
+        "html": "Réserver",
+        "children": [],
+        "lines": 1,
+        "size": "30.4px"
+      },
+      "counters": [],
+      "hasMagentaLine": 0
+    },
+    "alphaContrast": [],
+    "anim": {
+      "before": {
+        "total": 9,
+        "hiddenInView": 2,
+        "inViewDetails": [
+          {
+            "cls": "",
+            "op": 1,
+            "tf": "matrix(1.0738, 0, 0, 1.0738, 0, 0)",
+            "inView": true,
+            "top": 392
+          },
+          {
+            "cls": "",
+            "op": 1,
+            "tf": "matrix(1.0589, 0, 0, 1.0589, 0, 0)",
+            "inView": true,
+            "top": 581
+          }
+        ],
+        "offscreenAnimated": 4
+      },
+      "after": {
+        "total": 9,
+        "hiddenInView": 0,
+        "inViewDetails": [],
+        "offscreenAnimated": 2
+      }
+    },
+    "a11y": {
+      "inputs": [
+        {
+          "type": "text",
+          "id": null,
+          "name": null,
+          "hasLabelFor": false,
+          "wrappingLabel": true,
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "placeholder": null,
+          "autocomplete": "name",
+          "required": true,
+          "inputmode": null
+        },
+        {
+          "type": "email",
+          "id": null,
+          "name": null,
+          "hasLabelFor": false,
+          "wrappingLabel": true,
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "placeholder": null,
+          "autocomplete": "email",
+          "required": true,
+          "inputmode": null
+        },
+        {
+          "type": "date",
+          "id": null,
+          "name": null,
+          "hasLabelFor": false,
+          "wrappingLabel": true,
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "placeholder": null,
+          "autocomplete": null,
+          "required": true,
+          "inputmode": null
+        },
+        {
+          "type": "select-one",
+          "id": null,
+          "name": null,
+          "hasLabelFor": false,
+          "wrappingLabel": true,
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "placeholder": null,
+          "autocomplete": null,
+          "required": false,
+          "inputmode": null
+        },
+        {
+          "type": "radio",
+          "id": null,
+          "name": null,
+          "hasLabelFor": false,
+          "wrappingLabel": true,
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "placeholder": null,
+          "autocomplete": null,
+          "required": false,
+          "inputmode": null
+        },
+        {
+          "type": "radio",
+          "id": null,
+          "name": null,
+          "hasLabelFor": false,
+          "wrappingLabel": true,
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "placeholder": null,
+          "autocomplete": null,
+          "required": false,
+          "inputmode": null
+        },
+        {
+          "type": "text",
+          "id": null,
+          "name": null,
+          "hasLabelFor": false,
+          "wrappingLabel": true,
+          "ariaLabel": null,
+          "ariaLabelledby": null,
+          "placeholder": "Fruits à coque, végétal…",
+          "autocomplete": null,
+          "required": false,
+          "inputmode": null
+        }
+      ],
+      "smallTapTargets": [
+        {
+          "tag": "button",
+          "txt": "",
+          "w": 40,
+          "h": 40
+        },
+        {
+          "tag": "a",
+          "txt": "Le concept",
+          "w": 200,
+          "h": 32
+        },
+        {
+          "tag": "a",
+          "txt": "Le menu",
+          "w": 146,
+          "h": 32
+        },
+        {
+          "tag": "a",
+          "txt": "Réserver",
+          "w": 168,
+          "h": 32
+        },
+        {
+          "tag": "input",
+          "txt": "",
+          "w": 1,
+          "h": 1
+        },
+        {
+          "tag": "input",
+          "txt": "",
+          "w": 1,
+          "h": 1
+        },
+        {
+          "tag": "a",
+          "txt": "Le concept",
+          "w": 90,
+          "h": 15
+        },
+        {
+          "tag": "a",
+          "txt": "Le menu",
+          "w": 63,
+          "h": 15
+        },
+        {
+          "tag": "a",
+          "txt": "Réserver",
+          "w": 72,
+          "h": 15
+        },
+        {
+          "tag": "button",
+          "txt": "Haut de page ↑",
+          "w": 118,
+          "h": 18
+        }
+      ],
+      "smallTapCount": 10,
+      "imgsNoAlt": 0,
+      "linksNoText": 0,
+      "h1Count": 1,
+      "landmarks": {
+        "header": false,
+        "main": true,
+        "footer": true,
+        "nav": true
+      },
+      "skipLink": false,
+      "reducedMotionCSS": true
+    },
+    "perf": {
+      "by": {
+        "script": {
+          "n": 40,
+          "bytes": 3036419
+        },
+        "css": {
+          "n": 1,
+          "bytes": 1100
+        },
+        "img": {
+          "n": 2,
+          "bytes": 1221762
+        },
+        "other": {
+          "n": 1,
+          "bytes": 938
+        }
+      },
+      "totalKB": 4160,
+      "imgCount": 2,
+      "imgs": [
+        {
+          "f": "porte-exterieur.jpg",
+          "kb": 623,
+          "t": 6
+        },
+        {
+          "f": "table-detail.jpg",
+          "kb": 570,
+          "t": 6
+        }
+      ],
+      "fonts": [],
+      "domContentLoaded": 117,
+      "loadEvent": 143
+    },
+    "imgsAfter": [
+      {
+        "f": "porte-exterieur.jpg",
+        "nat": "1376x768",
+        "ok": true
+      },
+      {
+        "f": "table-detail.jpg",
+        "nat": "1376x768",
+        "ok": true
+      }
+    ]
+  }
+}

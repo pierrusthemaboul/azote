@@ -1,0 +1,1073 @@
+{
+ "home": {
+  "census": {
+   "count": 23,
+   "tiny": 11,
+   "thin": 16,
+   "lowContrast": 0,
+   "paragraphs": [],
+   "smallest": [
+    {
+     "t": "restaurant moléculaire",
+     "size": 8.8,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "nav__sub"
+    },
+    {
+     "t": "Le concept",
+     "size": 10.88,
+     "weight": "400",
+     "color": "rgb(236, 231, 219)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 11.59,
+     "cls": "nav__link"
+    },
+    {
+     "t": "Le menu",
+     "size": 10.88,
+     "weight": "400",
+     "color": "rgb(236, 231, 219)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 11.59,
+     "cls": "nav__link"
+    },
+    {
+     "t": "Réserver une table →",
+     "size": 10.88,
+     "weight": "400",
+     "color": "rgb(236, 231, 219)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 16.03,
+     "cls": "nav__cta"
+    },
+    {
+     "t": "AZOTE — restaurant fictif de démonstration",
+     "size": 11.2,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "footer__legal"
+    },
+    {
+     "t": "Haut de page ↑",
+     "size": 11.2,
+     "weight": "300",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "footer__top"
+    },
+    {
+     "t": "Découvrir l'expérience",
+     "size": 11.52,
+     "weight": "400",
+     "color": "rgb(236, 231, 219)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 16.03,
+     "cls": "hero__cta"
+    },
+    {
+     "t": "14 rue des Capucins, 69001 Lyon — restaura",
+     "size": 12,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "footer__address"
+    }
+   ],
+   "worst": [
+    {
+     "t": "Sensations",
+     "size": 104,
+     "weight": "200",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "hero__line.hero__line--accent"
+    },
+    {
+     "t": "Haut de page ↑",
+     "size": 11.2,
+     "weight": "300",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "footer__top"
+    },
+    {
+     "t": "restaurant moléculaire",
+     "size": 8.8,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "nav__sub"
+    },
+    {
+     "t": "Une cuisine moléculaire où la précision re",
+     "size": 15.2,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "hero__sub"
+    },
+    {
+     "t": "Des créations uniques entre tradition et i",
+     "size": 13.6,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "grid__text"
+    },
+    {
+     "t": "Une vision, une exigence, une passion sans",
+     "size": 13.6,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "grid__text"
+    }
+   ]
+  },
+  "misc": {
+   "tel": [],
+   "fictif": [
+    "14 rue des Capucins, 69001 Lyon — restaurant fictif, site de démonstration",
+    "AZOTE — restaurant fictif de démonstration. Site réalisé avec Vue 3."
+   ],
+   "counters": [],
+   "priceHits": [],
+   "hoursCount": 0,
+   "hoursSample": [],
+   "phone": [],
+   "heroCta": [
+    {
+     "txt": "→ Découvrir l'expérience",
+     "cls": "hero__cta",
+     "border": "0px none",
+     "radius": "0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "pad": "0px",
+     "size": "11.52px/400 ls 2.5344px"
+    }
+   ],
+   "navCta": [
+    {
+     "txt": "AZOTErestaurant moléculaire",
+     "border": "0px none rgb(236, 231, 219)",
+     "radius": "0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 51
+    },
+    {
+     "txt": "Le concept",
+     "border": "0px none rgb(236, 231, 219)",
+     "radius": "0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 14
+    },
+    {
+     "txt": "Le menu",
+     "border": "0px none rgb(236, 231, 219)",
+     "radius": "0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 14
+    },
+    {
+     "txt": "Réserver une table →",
+     "border": "1px solid rgb(217, 79, 158)",
+     "radius": "999px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 40
+    }
+   ],
+   "sideRail": []
+  }
+ },
+ "degustation": {
+  "census": {
+   "count": 15,
+   "tiny": 11,
+   "thin": 11,
+   "lowContrast": 0,
+   "paragraphs": [],
+   "smallest": [
+    {
+     "t": "restaurant moléculaire",
+     "size": 8.8,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "nav__sub"
+    },
+    {
+     "t": "Le concept",
+     "size": 10.88,
+     "weight": "400",
+     "color": "rgb(236, 231, 219)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 11.59,
+     "cls": "nav__link"
+    },
+    {
+     "t": "Le menu",
+     "size": 10.88,
+     "weight": "400",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "router-link-active.router-link-exact-active"
+    },
+    {
+     "t": "Réserver une table →",
+     "size": 10.88,
+     "weight": "400",
+     "color": "rgb(236, 231, 219)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 16.03,
+     "cls": "nav__cta"
+    },
+    {
+     "t": "Menu · 7 séquences",
+     "size": 11.2,
+     "weight": "400",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "kicker"
+    },
+    {
+     "t": "AZOTE — restaurant fictif de démonstration",
+     "size": 11.2,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "footer__legal"
+    },
+    {
+     "t": "Haut de page ↑",
+     "size": 11.2,
+     "weight": "300",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "footer__top"
+    },
+    {
+     "t": "14 rue des Capucins, 69001 Lyon — restaura",
+     "size": 12,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "footer__address"
+    }
+   ],
+   "worst": [
+    {
+     "t": "Le menu",
+     "size": 10.88,
+     "weight": "400",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "router-link-active.router-link-exact-active"
+    },
+    {
+     "t": "Menu · 7 séquences",
+     "size": 11.2,
+     "weight": "400",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "kicker"
+    },
+    {
+     "t": "Haut de page ↑",
+     "size": 11.2,
+     "weight": "300",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "footer__top"
+    },
+    {
+     "t": "restaurant moléculaire",
+     "size": 8.8,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "nav__sub"
+    },
+    {
+     "t": "Un seul menu, sept séquences, aveugle. Cha",
+     "size": 18.4,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "section-lead"
+    },
+    {
+     "t": "14 rue des Capucins, 69001 Lyon — restaura",
+     "size": 12,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "footer__address"
+    }
+   ]
+  },
+  "misc": {
+   "tel": [],
+   "fictif": [
+    "14 rue des Capucins, 69001 Lyon — restaurant fictif, site de démonstration",
+    "AZOTE — restaurant fictif de démonstration. Site réalisé avec Vue 3."
+   ],
+   "counters": [],
+   "priceHits": [],
+   "hoursCount": 0,
+   "hoursSample": [],
+   "phone": [],
+   "heroCta": [],
+   "navCta": [
+    {
+     "txt": "AZOTErestaurant moléculaire",
+     "border": "0px none rgb(236, 231, 219)",
+     "radius": "0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 51
+    },
+    {
+     "txt": "Le concept",
+     "border": "0px none rgb(236, 231, 219)",
+     "radius": "0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 14
+    },
+    {
+     "txt": "Le menu",
+     "border": "0px none rgb(217, 79, 158)",
+     "radius": "0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 14
+    },
+    {
+     "txt": "Réserver une table →",
+     "border": "1px solid rgb(217, 79, 158)",
+     "radius": "999px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 40
+    }
+   ],
+   "sideRail": []
+  }
+ },
+ "laboratoire": {
+  "census": {
+   "count": 15,
+   "tiny": 11,
+   "thin": 11,
+   "lowContrast": 0,
+   "paragraphs": [],
+   "smallest": [
+    {
+     "t": "restaurant moléculaire",
+     "size": 8.8,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "nav__sub"
+    },
+    {
+     "t": "Le concept",
+     "size": 10.88,
+     "weight": "400",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "router-link-active.router-link-exact-active"
+    },
+    {
+     "t": "Le menu",
+     "size": 10.88,
+     "weight": "400",
+     "color": "rgb(236, 231, 219)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 11.59,
+     "cls": "nav__link"
+    },
+    {
+     "t": "Réserver une table →",
+     "size": 10.88,
+     "weight": "400",
+     "color": "rgb(236, 231, 219)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 16.03,
+     "cls": "nav__cta"
+    },
+    {
+     "t": "Méthode · instruments",
+     "size": 11.2,
+     "weight": "400",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "kicker"
+    },
+    {
+     "t": "AZOTE — restaurant fictif de démonstration",
+     "size": 11.2,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "footer__legal"
+    },
+    {
+     "t": "Haut de page ↑",
+     "size": 11.2,
+     "weight": "300",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "footer__top"
+    },
+    {
+     "t": "14 rue des Capucins, 69001 Lyon — restaura",
+     "size": 12,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "footer__address"
+    }
+   ],
+   "worst": [
+    {
+     "t": "Le concept",
+     "size": 10.88,
+     "weight": "400",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "router-link-active.router-link-exact-active"
+    },
+    {
+     "t": "Méthode · instruments",
+     "size": 11.2,
+     "weight": "400",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "kicker"
+    },
+    {
+     "t": "Haut de page ↑",
+     "size": 11.2,
+     "weight": "300",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "footer__top"
+    },
+    {
+     "t": "restaurant moléculaire",
+     "size": 8.8,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "nav__sub"
+    },
+    {
+     "t": "Derrière la passe : des éprouvettes, un si",
+     "size": 18.4,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "section-lead"
+    },
+    {
+     "t": "14 rue des Capucins, 69001 Lyon — restaura",
+     "size": 12,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.55)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.27,
+     "cls": "footer__address"
+    }
+   ]
+  },
+  "misc": {
+   "tel": [],
+   "fictif": [
+    "14 rue des Capucins, 69001 Lyon — restaurant fictif, site de démonstration",
+    "AZOTE — restaurant fictif de démonstration. Site réalisé avec Vue 3."
+   ],
+   "counters": [],
+   "priceHits": [],
+   "hoursCount": 0,
+   "hoursSample": [],
+   "phone": [],
+   "heroCta": [],
+   "navCta": [
+    {
+     "txt": "AZOTErestaurant moléculaire",
+     "border": "0px none rgb(236, 231, 219)",
+     "radius": "0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 51
+    },
+    {
+     "txt": "Le concept",
+     "border": "0px none rgb(217, 79, 158)",
+     "radius": "0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 14
+    },
+    {
+     "txt": "Le menu",
+     "border": "0px none rgb(236, 231, 219)",
+     "radius": "0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 14
+    },
+    {
+     "txt": "Réserver une table →",
+     "border": "1px solid rgb(217, 79, 158)",
+     "radius": "999px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 40
+    }
+   ],
+   "sideRail": []
+  }
+ },
+ "reserver": {
+  "census": {
+   "count": 22,
+   "tiny": 11,
+   "thin": 12,
+   "lowContrast": 0,
+   "paragraphs": [],
+   "smallest": [
+    {
+     "t": "restaurant moléculaire",
+     "size": 8.8,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.72)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 8.45,
+     "cls": "nav__sub"
+    },
+    {
+     "t": "Le concept",
+     "size": 10.88,
+     "weight": "400",
+     "color": "rgb(236, 231, 219)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 11.59,
+     "cls": "nav__link"
+    },
+    {
+     "t": "Le menu",
+     "size": 10.88,
+     "weight": "400",
+     "color": "rgb(236, 231, 219)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 11.59,
+     "cls": "nav__link"
+    },
+    {
+     "t": "Réserver une table →",
+     "size": 10.88,
+     "weight": "400",
+     "color": "rgb(236, 231, 219)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 16.03,
+     "cls": "router-link-active.router-link-exact-active"
+    },
+    {
+     "t": "12 couverts · 2 services",
+     "size": 11.2,
+     "weight": "400",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "kicker"
+    },
+    {
+     "t": "AZOTE — restaurant fictif de démonstration",
+     "size": 11.2,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.72)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 8.45,
+     "cls": "footer__legal"
+    },
+    {
+     "t": "Haut de page ↑",
+     "size": 11.2,
+     "weight": "300",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "footer__top"
+    },
+    {
+     "t": "14 rue des Capucins, 69001 Lyon — restaura",
+     "size": 12,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.72)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 8.45,
+     "cls": "footer__address"
+    }
+   ],
+   "worst": [
+    {
+     "t": "12 couverts · 2 services",
+     "size": 11.2,
+     "weight": "400",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "kicker"
+    },
+    {
+     "t": "Haut de page ↑",
+     "size": 11.2,
+     "weight": "300",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "footer__top"
+    },
+    {
+     "t": "restaurant moléculaire",
+     "size": 8.8,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.72)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 8.45,
+     "cls": "nav__sub"
+    },
+    {
+     "t": "Douze couverts par service, un menu unique",
+     "size": 18.4,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.72)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 8.45,
+     "cls": "section-lead"
+    },
+    {
+     "t": "Oui, et il est aveugle. Sept séquences imp",
+     "size": 15.68,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.72)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 8.45,
+     "cls": "accordion__body"
+    },
+    {
+     "t": "14 rue des Capucins, 69001 Lyon — restaura",
+     "size": 12,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.72)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 8.45,
+     "cls": "footer__address"
+    }
+   ]
+  },
+  "misc": {
+   "tel": [],
+   "fictif": [
+    "14 rue des Capucins, 69001 Lyon — restaurant fictif, site de démonstration",
+    "AZOTE — restaurant fictif de démonstration. Site réalisé avec Vue 3."
+   ],
+   "counters": [],
+   "priceHits": [],
+   "hoursCount": 0,
+   "hoursSample": [],
+   "phone": [],
+   "heroCta": [],
+   "navCta": [
+    {
+     "txt": "AZOTErestaurant moléculaire",
+     "border": "0px none rgb(236, 231, 219)",
+     "radius": "0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 51
+    },
+    {
+     "txt": "Le concept",
+     "border": "0px none rgb(236, 231, 219)",
+     "radius": "0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 14
+    },
+    {
+     "txt": "Le menu",
+     "border": "0px none rgb(236, 231, 219)",
+     "radius": "0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 14
+    },
+    {
+     "txt": "Réserver une table →",
+     "border": "1px solid rgb(217, 79, 158)",
+     "radius": "999px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 40
+    }
+   ],
+   "sideRail": []
+  },
+  "form": {
+   "inputs": [
+    {
+     "type": "text",
+     "name": null,
+     "id": null,
+     "text": null,
+     "inLabel": true,
+     "labelText": "Nom",
+     "ariaInvalid": null,
+     "ariaDescribedby": null,
+     "borderColor": "rgba(236, 231, 219, 0.15)",
+     "bg": "rgba(236, 231, 219, 0.05)",
+     "h": 54
+    },
+    {
+     "type": "email",
+     "name": null,
+     "id": null,
+     "text": null,
+     "inLabel": true,
+     "labelText": "Courriel",
+     "ariaInvalid": null,
+     "ariaDescribedby": null,
+     "borderColor": "rgba(236, 231, 219, 0.15)",
+     "bg": "rgba(236, 231, 219, 0.05)",
+     "h": 54
+    },
+    {
+     "type": "date",
+     "name": null,
+     "id": null,
+     "text": null,
+     "inLabel": true,
+     "labelText": "Date",
+     "ariaInvalid": null,
+     "ariaDescribedby": null,
+     "borderColor": "rgba(236, 231, 219, 0.15)",
+     "bg": "rgba(236, 231, 219, 0.05)",
+     "h": 56
+    },
+    {
+     "type": "select-one",
+     "name": null,
+     "id": null,
+     "text": null,
+     "inLabel": true,
+     "labelText": "Couverts1 couvert2 couverts3 couverts4 couverts5 couverts6 c",
+     "ariaInvalid": null,
+     "ariaDescribedby": null,
+     "borderColor": "rgba(236, 231, 219, 0.15)",
+     "bg": "rgba(236, 231, 219, 0.05)",
+     "h": 50
+    },
+    {
+     "type": "radio",
+     "name": null,
+     "id": null,
+     "text": "19:30Service I — dégustation complète",
+     "inLabel": true,
+     "labelText": "19:30Service I — dégustation complète",
+     "ariaInvalid": null,
+     "ariaDescribedby": null,
+     "borderColor": "rgb(236, 231, 219)",
+     "bg": "rgba(236, 231, 219, 0.05)",
+     "h": 1
+    },
+    {
+     "type": "radio",
+     "name": null,
+     "id": null,
+     "text": "21:15Service II — dégustation complète",
+     "inLabel": true,
+     "labelText": "21:15Service II — dégustation complète",
+     "ariaInvalid": null,
+     "ariaDescribedby": null,
+     "borderColor": "rgb(236, 231, 219)",
+     "bg": "rgba(236, 231, 219, 0.05)",
+     "h": 1
+    },
+    {
+     "type": "text",
+     "name": null,
+     "id": null,
+     "text": null,
+     "inLabel": true,
+     "labelText": "Allergies / régime",
+     "ariaInvalid": null,
+     "ariaDescribedby": null,
+     "borderColor": "rgba(236, 231, 219, 0.15)",
+     "bg": "rgba(236, 231, 219, 0.05)",
+     "h": 54
+    }
+   ],
+   "labelSpans": [
+    {
+     "txt": "Nom",
+     "color": "rgb(217, 79, 158)",
+     "size": "10.88px",
+     "weight": "300",
+     "inLabel": true,
+     "labelBg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "txt": "Courriel",
+     "color": "rgb(217, 79, 158)",
+     "size": "10.88px",
+     "weight": "300",
+     "inLabel": true,
+     "labelBg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "txt": "Date",
+     "color": "rgb(217, 79, 158)",
+     "size": "10.88px",
+     "weight": "300",
+     "inLabel": true,
+     "labelBg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "txt": "Couverts",
+     "color": "rgb(217, 79, 158)",
+     "size": "10.88px",
+     "weight": "300",
+     "inLabel": true,
+     "labelBg": "rgba(0, 0, 0, 0)"
+    },
+    {
+     "txt": "Service",
+     "color": "rgb(217, 79, 158)",
+     "size": "10.88px",
+     "weight": "300",
+     "inLabel": false,
+     "labelBg": null
+    },
+    {
+     "txt": "Allergies / régime",
+     "color": "rgb(217, 79, 158)",
+     "size": "10.88px",
+     "weight": "300",
+     "inLabel": true,
+     "labelBg": "rgba(0, 0, 0, 0)"
+    }
+   ],
+   "errText": []
+  }
+ },
+ "notfound": {
+  "census": {
+   "count": 18,
+   "tiny": 12,
+   "thin": 11,
+   "lowContrast": 0,
+   "paragraphs": [],
+   "smallest": [
+    {
+     "t": "restaurant moléculaire",
+     "size": 8.8,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.72)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 8.45,
+     "cls": "nav__sub"
+    },
+    {
+     "t": "Le concept",
+     "size": 10.88,
+     "weight": "400",
+     "color": "rgb(236, 231, 219)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 11.59,
+     "cls": "nav__link"
+    },
+    {
+     "t": "Le menu",
+     "size": 10.88,
+     "weight": "400",
+     "color": "rgb(236, 231, 219)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 11.59,
+     "cls": "nav__link"
+    },
+    {
+     "t": "Réserver une table →",
+     "size": 10.88,
+     "weight": "400",
+     "color": "rgb(236, 231, 219)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 16.03,
+     "cls": "nav__cta"
+    },
+    {
+     "t": "Erreur 404",
+     "size": 11.2,
+     "weight": "400",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "kicker"
+    },
+    {
+     "t": "AZOTE — restaurant fictif de démonstration",
+     "size": 11.2,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.72)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 8.45,
+     "cls": "footer__legal"
+    },
+    {
+     "t": "Haut de page ↑",
+     "size": 11.2,
+     "weight": "300",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "footer__top"
+    },
+    {
+     "t": "Retour à l'accueil",
+     "size": 11.52,
+     "weight": "400",
+     "color": "rgb(236, 231, 219)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 16.03,
+     "cls": "btn"
+    }
+   ],
+   "worst": [
+    {
+     "t": "Erreur 404",
+     "size": 11.2,
+     "weight": "400",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "kicker"
+    },
+    {
+     "t": "Haut de page ↑",
+     "size": 11.2,
+     "weight": "300",
+     "color": "rgb(217, 79, 158)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 5.24,
+     "cls": "footer__top"
+    },
+    {
+     "t": "restaurant moléculaire",
+     "size": 8.8,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.72)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 8.45,
+     "cls": "nav__sub"
+    },
+    {
+     "t": "Cette séquence n'existe pas dans le protoc",
+     "size": 16,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.72)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 8.45,
+     "cls": "nf__body"
+    },
+    {
+     "t": "14 rue des Capucins, 69001 Lyon — restaura",
+     "size": 12,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.72)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 8.45,
+     "cls": "footer__address"
+    },
+    {
+     "t": "Le concept",
+     "size": 12,
+     "weight": "300",
+     "color": "rgba(236, 231, 219, 0.72)",
+     "bg": "rgb(10,10,12)",
+     "ratio": 8.45,
+     "cls": "footer__link"
+    }
+   ]
+  },
+  "misc": {
+   "tel": [],
+   "fictif": [
+    "14 rue des Capucins, 69001 Lyon — restaurant fictif, site de démonstration",
+    "AZOTE — restaurant fictif de démonstration. Site réalisé avec Vue 3."
+   ],
+   "counters": [],
+   "priceHits": [],
+   "hoursCount": 0,
+   "hoursSample": [],
+   "phone": [],
+   "heroCta": [],
+   "navCta": [
+    {
+     "txt": "AZOTErestaurant moléculaire",
+     "border": "0px none rgb(236, 231, 219)",
+     "radius": "0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 51
+    },
+    {
+     "txt": "Le concept",
+     "border": "0px none rgb(236, 231, 219)",
+     "radius": "0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 14
+    },
+    {
+     "txt": "Le menu",
+     "border": "0px none rgb(236, 231, 219)",
+     "radius": "0px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 14
+    },
+    {
+     "txt": "Réserver une table →",
+     "border": "1px solid rgb(217, 79, 158)",
+     "radius": "999px",
+     "bg": "rgba(0, 0, 0, 0)",
+     "h": 40
+    }
+   ],
+   "sideRail": []
+  }
+ }
+}

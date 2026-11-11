@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="fr">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#0a0a0c" />
+    <meta
+      name="description"
+      content="AZOTE — restaurant de cuisine moléculaire à Lyon. Une dégustation en sept séquences, douze couverts, entre laboratoire et table."
+    />
+    <meta property="og:title" content="AZOTE — Cuisine moléculaire · Lyon" />
+    <meta
+      property="og:description"
+      content="Sept séquences, douze couverts. La science au service du goût."
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:locale" content="fr_FR" />
+    <meta property="og:image" content="/images/hero-cloche.jpg" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500&family=IBM+Plex+Mono:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
+    <title>AZOTE — Cuisine moléculaire · Lyon</title>
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Restaurant",
+        "name": "AZOTE",
+        "description": "Restaurant de cuisine moléculaire — dégustation en sept séquences, douze couverts.",
+        "servesCuisine": "Cuisine moléculaire",
+        "priceRange": "145 EUR",
+        "telephone": "+33 4 00 00 00 00",
+        "email": "labo@azote.example",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "14 rue des Capucins",
+          "postalCode": "69001",
+          "addressLocality": "Lyon",
+          "addressCountry": "FR"
+        },
+        "openingHoursSpecification": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Wednesday", "Thursday", "Friday", "Saturday"],
+          "opens": "19:30",
+          "closes": "23:30"
+        },
+        "acceptsReservations": "True"
+      }
+    </script>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

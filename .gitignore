@@ -1,0 +1,4 @@
+.hermes/
+node_modules/
+dist/
+*.log

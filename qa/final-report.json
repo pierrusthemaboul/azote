@@ -1,0 +1,2491 @@
+{
+  "report": {
+    "home__desktop": {
+      "url": "/",
+      "vp": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 900
+      },
+      "docHeight": 3006,
+      "spec": {
+        "title": "AZOTE — Cuisine moléculaire · Lyon",
+        "lang": "fr",
+        "bodyBg": "rgb(10, 10, 12)",
+        "bodyColor": "rgb(236, 231, 219)",
+        "magentaUsage": 6,
+        "pillOutlineCount": 1,
+        "creamSections": 1,
+        "pagination01": null,
+        "svgInline": 0,
+        "threeColGrids": 1,
+        "imgCount": 5,
+        "imgBroken": 0,
+        "imgs": [
+          {
+            "file": "hero-cloche.jpg",
+            "nat": "1376x768",
+            "rendered": "1440x900",
+            "alt": "",
+            "ok": true,
+            "loading": "auto"
+          },
+          {
+            "file": "salle-magenta.jpg",
+            "nat": "1376x768",
+            "rendered": "497x433",
+            "alt": "La salle d'AZOTE la nuit, panneaux lumineux magenta, tables dressées",
+            "ok": true,
+            "loading": "auto"
+          },
+          {
+            "file": "plat-sphere.jpg",
+            "nat": "1376x768",
+            "rendered": "498x623",
+            "alt": "Le menu",
+            "ok": true,
+            "loading": "auto"
+          },
+          {
+            "file": "mains-dressage.jpg",
+            "nat": "1376x768",
+            "rendered": "498x623",
+            "alt": "Le chef",
+            "ok": true,
+            "loading": "auto"
+          },
+          {
+            "file": "verre-vin.jpg",
+            "nat": "1376x768",
+            "rendered": "499x624",
+            "alt": "La carte des vins",
+            "ok": true,
+            "loading": "auto"
+          }
+        ],
+        "links": [
+          {
+            "href": "/",
+            "text": "AZOTErestaurant moléculaire"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver une table →"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver"
+          },
+          {
+            "href": "/degustation",
+            "text": "→ Découvrir l'expérience"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "En savoir plus →"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menuDes créations uniques entre tradition "
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le chefUne vision, une exigence, une passion "
+          },
+          {
+            "href": "/degustation",
+            "text": "La carte des vinsUne sélection d'exception po"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver"
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Réserver une table →",
+            "tag": "a"
+          },
+          {
+            "text": "",
+            "tag": "button"
+          },
+          {
+            "text": "→ Découvrir l'expérience",
+            "tag": "a"
+          },
+          {
+            "text": "→",
+            "tag": "span"
+          },
+          {
+            "text": "Haut de page ↑",
+            "tag": "button"
+          }
+        ],
+        "docHeight": 3006
+      },
+      "typo": {
+        "headings": [
+          {
+            "tag": "h1",
+            "cls": "hero__title",
+            "text": "CuisineSensationsÉmotions",
+            "size": "104px",
+            "weight": "200",
+            "family": "Montserrat",
+            "transform": "uppercase",
+            "ls": "6.24px",
+            "lh": "112.32px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h2",
+            "cls": "philo__title",
+            "text": "Une autre façon de dîner.",
+            "size": "51.2px",
+            "weight": "200",
+            "family": "Montserrat",
+            "transform": "uppercase",
+            "ls": "2.048px",
+            "lh": "58.88px",
+            "color": "rgb(30, 27, 21)"
+          },
+          {
+            "tag": "p",
+            "cls": "grid__label",
+            "text": "Le menu",
+            "size": "12.8px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "uppercase",
+            "ls": "3.072px",
+            "lh": "20.48px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "p",
+            "cls": "grid__label",
+            "text": "Le chef",
+            "size": "12.8px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "uppercase",
+            "ls": "3.072px",
+            "lh": "20.48px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "p",
+            "cls": "grid__label",
+            "text": "La carte des vins",
+            "size": "12.8px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "uppercase",
+            "ls": "3.072px",
+            "lh": "20.48px",
+            "color": "rgb(236, 231, 219)"
+          }
+        ],
+        "fonts": {
+          "Montserrat": true,
+          "Jost": true,
+          "Inter": true,
+          "Poppins": true
+        },
+        "sizes": {
+          "104px": 1,
+          "51.2px": 1,
+          "12.8px": 3
+        },
+        "bodyFont": "Montserrat, -apple-system, \"Segoe UI\", sans-serif"
+      },
+      "overflowTop": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "horizontalScroll": false,
+        "count": 2,
+        "offenders": [
+          {
+            "tag": "img",
+            "cls": "",
+            "w": 498,
+            "oR": -951,
+            "oL": 10,
+            "pos": "static",
+            "ox": "clip",
+            "txt": ""
+          },
+          {
+            "tag": "img",
+            "cls": "",
+            "w": 499,
+            "oR": 10,
+            "oL": -950,
+            "pos": "static",
+            "ox": "clip",
+            "txt": ""
+          }
+        ]
+      },
+      "overflowAfter": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "horizontalScroll": false,
+        "count": 2,
+        "offenders": [
+          {
+            "tag": "img",
+            "cls": "",
+            "w": 525,
+            "oR": -938,
+            "oL": 23,
+            "pos": "static",
+            "ox": "clip",
+            "txt": ""
+          },
+          {
+            "tag": "img",
+            "cls": "",
+            "w": 526,
+            "oR": 23,
+            "oL": -937,
+            "pos": "static",
+            "ox": "clip",
+            "txt": ""
+          }
+        ]
+      },
+      "contrast": [],
+      "imgstat": [
+        {
+          "file": "hero-cloche.jpg",
+          "meanLum": 34,
+          "meanLumPct": 13,
+          "magentaPct": 1
+        },
+        {
+          "file": "salle-magenta.jpg",
+          "meanLum": 35,
+          "meanLumPct": 14,
+          "magentaPct": 23
+        },
+        {
+          "file": "plat-sphere.jpg",
+          "meanLum": 27,
+          "meanLumPct": 10,
+          "magentaPct": 0
+        },
+        {
+          "file": "mains-dressage.jpg",
+          "meanLum": 22,
+          "meanLumPct": 9,
+          "magentaPct": 1
+        },
+        {
+          "file": "verre-vin.jpg",
+          "meanLum": 19,
+          "meanLumPct": 7,
+          "magentaPct": 2
+        }
+      ],
+      "console": [],
+      "failedReq": []
+    },
+    "degustation__desktop": {
+      "url": "/degustation",
+      "vp": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 900
+      },
+      "docHeight": 3891,
+      "spec": {
+        "title": "AZOTE — Cuisine moléculaire · Lyon",
+        "lang": "fr",
+        "bodyBg": "rgb(10, 10, 12)",
+        "bodyColor": "rgb(236, 231, 219)",
+        "magentaUsage": 23,
+        "pillOutlineCount": 2,
+        "creamSections": 0,
+        "pagination01": null,
+        "svgInline": 0,
+        "threeColGrids": 7,
+        "imgCount": 7,
+        "imgBroken": 1,
+        "imgs": [
+          {
+            "file": "dessert-fumee.jpg",
+            "nat": "1376x768",
+            "rendered": "1058x452",
+            "alt": "Dessert sous fumée d'azote",
+            "ok": true,
+            "loading": "auto"
+          },
+          {
+            "file": "plat-sphere.jpg",
+            "nat": "1376x768",
+            "rendered": "118x88",
+            "alt": "Sphère d'olive",
+            "ok": true,
+            "loading": "lazy"
+          },
+          {
+            "file": "caviar-macro.jpg",
+            "nat": "1376x768",
+            "rendered": "118x88",
+            "alt": "Huître, concombre, air de mer",
+            "ok": true,
+            "loading": "lazy"
+          },
+          {
+            "file": "plat-extra.jpg",
+            "nat": "1376x768",
+            "rendered": "118x88",
+            "alt": "Pomme de terre, jus de 72 heures",
+            "ok": true,
+            "loading": "lazy"
+          },
+          {
+            "file": "plat-plongee.jpg",
+            "nat": "1376x768",
+            "rendered": "118x88",
+            "alt": "Saint-Jacques, noir de seiche",
+            "ok": true,
+            "loading": "lazy"
+          },
+          {
+            "file": "dessert-fumee.jpg",
+            "nat": "1376x768",
+            "rendered": "118x88",
+            "alt": "Glace minute citron-basilic",
+            "ok": true,
+            "loading": "lazy"
+          },
+          {
+            "file": "",
+            "nat": "0x0",
+            "rendered": "549x308",
+            "alt": "Cocktail sombre fumant au comptoir",
+            "ok": false,
+            "loading": "lazy"
+          }
+        ],
+        "links": [
+          {
+            "href": "/",
+            "text": "AZOTErestaurant moléculaire"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver une table →"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver une table"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Suite →Le laboratoire"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver"
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Réserver une table →",
+            "tag": "a"
+          },
+          {
+            "text": "",
+            "tag": "button"
+          },
+          {
+            "text": "Réserver une table",
+            "tag": "a"
+          },
+          {
+            "text": "Haut de page ↑",
+            "tag": "button"
+          }
+        ],
+        "docHeight": 3891
+      },
+      "typo": {
+        "headings": [
+          {
+            "tag": "h1",
+            "cls": "section-title",
+            "text": "Le menu",
+            "size": "54.4px",
+            "weight": "200",
+            "family": "Montserrat",
+            "transform": "uppercase",
+            "ls": "2.176px",
+            "lh": "62.56px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h3",
+            "cls": "seq__name",
+            "text": "Sphère d'olive",
+            "size": "30.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "-0.304px",
+            "lh": "48.64px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h3",
+            "cls": "seq__name",
+            "text": "Huître, concombre, air de mer",
+            "size": "30.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "-0.304px",
+            "lh": "48.64px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h3",
+            "cls": "seq__name",
+            "text": "Foie gras râpé minute",
+            "size": "30.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "-0.304px",
+            "lh": "48.64px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h3",
+            "cls": "seq__name",
+            "text": "Le cordon-bleu déconstruit",
+            "size": "30.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "-0.304px",
+            "lh": "48.64px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h3",
+            "cls": "seq__name",
+            "text": "Pomme de terre, jus de 72 heures",
+            "size": "30.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "-0.304px",
+            "lh": "48.64px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h3",
+            "cls": "seq__name",
+            "text": "Saint-Jacques, noir de seiche",
+            "size": "30.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "-0.304px",
+            "lh": "48.64px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h3",
+            "cls": "seq__name",
+            "text": "Glace minute citron-basilic",
+            "size": "30.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "-0.304px",
+            "lh": "48.64px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h2",
+            "cls": "extras__title",
+            "text": "Accords non évidents",
+            "size": "38.4px",
+            "weight": "200",
+            "family": "Montserrat",
+            "transform": "uppercase",
+            "ls": "1.152px",
+            "lh": "61.44px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "span",
+            "cls": "next__label",
+            "text": "Le laboratoire",
+            "size": "60.8px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "-1.216px",
+            "lh": "97.28px",
+            "color": "rgb(236, 231, 219)"
+          }
+        ],
+        "fonts": {
+          "Montserrat": true,
+          "Jost": true,
+          "Inter": true,
+          "Poppins": true
+        },
+        "sizes": {
+          "54.4px": 1,
+          "30.4px": 7,
+          "38.4px": 1,
+          "60.8px": 1
+        },
+        "bodyFont": "Montserrat, -apple-system, \"Segoe UI\", sans-serif"
+      },
+      "overflowTop": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "horizontalScroll": false,
+        "count": 0,
+        "offenders": []
+      },
+      "overflowAfter": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "horizontalScroll": false,
+        "count": 0,
+        "offenders": []
+      },
+      "contrast": [],
+      "imgstat": [
+        {
+          "file": "dessert-fumee.jpg",
+          "meanLum": 33,
+          "meanLumPct": 13,
+          "magentaPct": 1
+        },
+        {
+          "file": "plat-sphere.jpg",
+          "meanLum": 27,
+          "meanLumPct": 10,
+          "magentaPct": 0
+        },
+        {
+          "file": "caviar-macro.jpg",
+          "meanLum": 38,
+          "meanLumPct": 15,
+          "magentaPct": 1
+        },
+        {
+          "file": "plat-extra.jpg",
+          "meanLum": 54,
+          "meanLumPct": 21,
+          "magentaPct": 0
+        },
+        {
+          "file": "plat-plongee.jpg",
+          "meanLum": 22,
+          "meanLumPct": 8,
+          "magentaPct": 1
+        },
+        {
+          "file": "dessert-fumee.jpg",
+          "meanLum": 33,
+          "meanLumPct": 13,
+          "magentaPct": 1
+        },
+        {
+          "file": "",
+          "err": "TypeError: Failed to execute 'getImageData' on 'CanvasRenderingContext2D': Value"
+        }
+      ],
+      "console": [],
+      "failedReq": []
+    },
+    "laboratoire__desktop": {
+      "url": "/laboratoire",
+      "vp": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 900
+      },
+      "docHeight": 4669,
+      "spec": {
+        "title": "AZOTE — Cuisine moléculaire · Lyon",
+        "lang": "fr",
+        "bodyBg": "rgb(10, 10, 12)",
+        "bodyColor": "rgb(236, 231, 219)",
+        "magentaUsage": 20,
+        "pillOutlineCount": 1,
+        "creamSections": 1,
+        "pagination01": null,
+        "svgInline": 0,
+        "threeColGrids": 1,
+        "imgCount": 3,
+        "imgBroken": 0,
+        "imgs": [
+          {
+            "file": "ingredients-etale.jpg",
+            "nat": "1376x768",
+            "rendered": "1058x452",
+            "alt": "Paillasse du laboratoire : éprouvettes, pinces, ingrédients",
+            "ok": true,
+            "loading": "auto"
+          },
+          {
+            "file": "bar-comptoir.jpg",
+            "nat": "1376x768",
+            "rendered": "1498x497",
+            "alt": "",
+            "ok": true,
+            "loading": "auto"
+          },
+          {
+            "file": "cuisine-silhouette.jpg",
+            "nat": "1376x768",
+            "rendered": "429x573",
+            "alt": "Élise Moreau en cuisine, silhouette dans la vapeur",
+            "ok": true,
+            "loading": "auto"
+          }
+        ],
+        "links": [
+          {
+            "href": "/",
+            "text": "AZOTErestaurant moléculaire"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver une table →"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver"
+          },
+          {
+            "href": "/reserver",
+            "text": "Suite →Réserver une table"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver"
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Réserver une table →",
+            "tag": "a"
+          },
+          {
+            "text": "",
+            "tag": "button"
+          },
+          {
+            "text": "Haut de page ↑",
+            "tag": "button"
+          }
+        ],
+        "docHeight": 4669
+      },
+      "typo": {
+        "headings": [
+          {
+            "tag": "h1",
+            "cls": "section-title",
+            "text": "Le laboratoire",
+            "size": "54.4px",
+            "weight": "200",
+            "family": "Montserrat",
+            "transform": "uppercase",
+            "ls": "2.176px",
+            "lh": "62.56px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h2",
+            "cls": "section-title",
+            "text": "Six techniques",
+            "size": "54.4px",
+            "weight": "200",
+            "family": "Montserrat",
+            "transform": "uppercase",
+            "ls": "2.176px",
+            "lh": "62.56px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h3",
+            "cls": "tech__name",
+            "text": "Sphérification",
+            "size": "20.8px",
+            "weight": "300",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "normal",
+            "lh": "33.28px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h3",
+            "cls": "tech__name",
+            "text": "Azote liquide",
+            "size": "20.8px",
+            "weight": "300",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "normal",
+            "lh": "33.28px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h3",
+            "cls": "tech__name",
+            "text": "Émulsions d’air",
+            "size": "20.8px",
+            "weight": "300",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "normal",
+            "lh": "33.28px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h3",
+            "cls": "tech__name",
+            "text": "Cryo-concentration",
+            "size": "20.8px",
+            "weight": "300",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "normal",
+            "lh": "33.28px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h3",
+            "cls": "tech__name",
+            "text": "Déconstruction",
+            "size": "20.8px",
+            "weight": "300",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "normal",
+            "lh": "33.28px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h3",
+            "cls": "tech__name",
+            "text": "Encres & pigments",
+            "size": "20.8px",
+            "weight": "300",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "normal",
+            "lh": "33.28px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h2",
+            "cls": "section-title",
+            "text": "Du protocole à l'assiette",
+            "size": "54.4px",
+            "weight": "200",
+            "family": "Montserrat",
+            "transform": "uppercase",
+            "ls": "2.176px",
+            "lh": "62.56px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h3",
+            "cls": "method__title",
+            "text": "Hypothèse",
+            "size": "19.2px",
+            "weight": "300",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "0.384px",
+            "lh": "30.72px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h3",
+            "cls": "method__title",
+            "text": "Protocole",
+            "size": "19.2px",
+            "weight": "300",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "0.384px",
+            "lh": "30.72px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h3",
+            "cls": "method__title",
+            "text": "Dégustation-test",
+            "size": "19.2px",
+            "weight": "300",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "0.384px",
+            "lh": "30.72px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h3",
+            "cls": "method__title",
+            "text": "Mise en carte",
+            "size": "19.2px",
+            "weight": "300",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "0.384px",
+            "lh": "30.72px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h2",
+            "cls": "chef__name",
+            "text": "Élise Moreau",
+            "size": "51.2px",
+            "weight": "200",
+            "family": "Montserrat",
+            "transform": "uppercase",
+            "ls": "1.536px",
+            "lh": "81.92px",
+            "color": "rgb(30, 27, 21)"
+          },
+          {
+            "tag": "span",
+            "cls": "next__label",
+            "text": "Réserver une table",
+            "size": "60.8px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "-1.216px",
+            "lh": "97.28px",
+            "color": "rgb(236, 231, 219)"
+          }
+        ],
+        "fonts": {
+          "Montserrat": true,
+          "Jost": true,
+          "Inter": true,
+          "Poppins": true
+        },
+        "sizes": {
+          "54.4px": 3,
+          "20.8px": 6,
+          "19.2px": 4,
+          "51.2px": 1,
+          "60.8px": 1
+        },
+        "bodyFont": "Montserrat, -apple-system, \"Segoe UI\", sans-serif"
+      },
+      "overflowTop": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "horizontalScroll": false,
+        "count": 1,
+        "offenders": [
+          {
+            "tag": "img",
+            "cls": "",
+            "w": 1498,
+            "oR": 29,
+            "oL": 29,
+            "pos": "static",
+            "ox": "clip",
+            "txt": ""
+          }
+        ]
+      },
+      "overflowAfter": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "horizontalScroll": false,
+        "count": 1,
+        "offenders": [
+          {
+            "tag": "img",
+            "cls": "",
+            "w": 1613,
+            "oR": 86,
+            "oL": 86,
+            "pos": "static",
+            "ox": "clip",
+            "txt": ""
+          }
+        ]
+      },
+      "contrast": [],
+      "imgstat": [
+        {
+          "file": "ingredients-etale.jpg",
+          "meanLum": 27,
+          "meanLumPct": 11,
+          "magentaPct": 7
+        },
+        {
+          "file": "bar-comptoir.jpg",
+          "meanLum": 27,
+          "meanLumPct": 10,
+          "magentaPct": 1
+        },
+        {
+          "file": "cuisine-silhouette.jpg",
+          "meanLum": 18,
+          "meanLumPct": 7,
+          "magentaPct": 4
+        }
+      ],
+      "console": [],
+      "failedReq": []
+    },
+    "reserver__desktop": {
+      "url": "/reserver",
+      "vp": {
+        "name": "desktop",
+        "width": 1440,
+        "height": 900
+      },
+      "docHeight": 3317,
+      "spec": {
+        "title": "AZOTE — Cuisine moléculaire · Lyon",
+        "lang": "fr",
+        "bodyBg": "rgb(10, 10, 12)",
+        "bodyColor": "rgb(236, 231, 219)",
+        "magentaUsage": 26,
+        "pillOutlineCount": 1,
+        "creamSections": 0,
+        "pagination01": null,
+        "svgInline": 0,
+        "threeColGrids": 0,
+        "imgCount": 2,
+        "imgBroken": 0,
+        "imgs": [
+          {
+            "file": "porte-exterieur.jpg",
+            "nat": "1376x768",
+            "rendered": "619x348",
+            "alt": "La porte noire d’AZOTE la nuit, petit panneau magenta",
+            "ok": true,
+            "loading": "auto"
+          },
+          {
+            "file": "table-detail.jpg",
+            "nat": "1376x768",
+            "rendered": "443x249",
+            "alt": "Détail de table : couverts noirs, lin plié, flamme",
+            "ok": true,
+            "loading": "auto"
+          }
+        ],
+        "links": [
+          {
+            "href": "/",
+            "text": "AZOTErestaurant moléculaire"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver une table →"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver"
+          },
+          {
+            "href": "/",
+            "text": "Suite →Retour à l'accueil"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver"
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Réserver une table →",
+            "tag": "a"
+          },
+          {
+            "text": "",
+            "tag": "button"
+          },
+          {
+            "text": "Valider le protocole",
+            "tag": "button"
+          },
+          {
+            "text": "Adresse−",
+            "tag": "button"
+          },
+          {
+            "text": "Horaires+",
+            "tag": "button"
+          },
+          {
+            "text": "Durée & rythme+",
+            "tag": "button"
+          },
+          {
+            "text": "Tarif+",
+            "tag": "button"
+          },
+          {
+            "text": "Dress code+",
+            "tag": "button"
+          },
+          {
+            "text": "Y a-t-il un menu unique ?−",
+            "tag": "button"
+          },
+          {
+            "text": "Allergies, régimes, option végétale ?+",
+            "tag": "button"
+          },
+          {
+            "text": "Les enfants sont-ils acceptés ?+",
+            "tag": "button"
+          },
+          {
+            "text": "Peut-on offrir une expérience ?+",
+            "tag": "button"
+          },
+          {
+            "text": "Annulation ?+",
+            "tag": "button"
+          },
+          {
+            "text": "Privatiser la salle ?+",
+            "tag": "button"
+          },
+          {
+            "text": "Haut de page ↑",
+            "tag": "button"
+          }
+        ],
+        "docHeight": 3317
+      },
+      "typo": {
+        "headings": [
+          {
+            "tag": "h1",
+            "cls": "section-title",
+            "text": "Réserver",
+            "size": "54.4px",
+            "weight": "200",
+            "family": "Montserrat",
+            "transform": "uppercase",
+            "ls": "2.176px",
+            "lh": "62.56px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h2",
+            "cls": "resv-grid__title",
+            "text": "Choisir son service",
+            "size": "38.4px",
+            "weight": "200",
+            "family": "Montserrat",
+            "transform": "uppercase",
+            "ls": "1.152px",
+            "lh": "61.44px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "span",
+            "cls": "resv__label",
+            "text": "Nom",
+            "size": "10.88px",
+            "weight": "300",
+            "family": "IBM Plex Mono",
+            "transform": "uppercase",
+            "ls": "2.176px",
+            "lh": "17.408px",
+            "color": "rgb(217, 79, 158)"
+          },
+          {
+            "tag": "span",
+            "cls": "resv__label",
+            "text": "Courriel",
+            "size": "10.88px",
+            "weight": "300",
+            "family": "IBM Plex Mono",
+            "transform": "uppercase",
+            "ls": "2.176px",
+            "lh": "17.408px",
+            "color": "rgb(217, 79, 158)"
+          },
+          {
+            "tag": "span",
+            "cls": "resv__label",
+            "text": "Date",
+            "size": "10.88px",
+            "weight": "300",
+            "family": "IBM Plex Mono",
+            "transform": "uppercase",
+            "ls": "2.176px",
+            "lh": "17.408px",
+            "color": "rgb(217, 79, 158)"
+          },
+          {
+            "tag": "span",
+            "cls": "resv__label",
+            "text": "Couverts",
+            "size": "10.88px",
+            "weight": "300",
+            "family": "IBM Plex Mono",
+            "transform": "uppercase",
+            "ls": "2.176px",
+            "lh": "17.408px",
+            "color": "rgb(217, 79, 158)"
+          },
+          {
+            "tag": "legend",
+            "cls": "resv__label",
+            "text": "Service",
+            "size": "10.88px",
+            "weight": "300",
+            "family": "IBM Plex Mono",
+            "transform": "uppercase",
+            "ls": "2.176px",
+            "lh": "17.408px",
+            "color": "rgb(217, 79, 158)"
+          },
+          {
+            "tag": "span",
+            "cls": "resv__label",
+            "text": "Allergies / régime",
+            "size": "10.88px",
+            "weight": "300",
+            "family": "IBM Plex Mono",
+            "transform": "uppercase",
+            "ls": "2.176px",
+            "lh": "17.408px",
+            "color": "rgb(217, 79, 158)"
+          },
+          {
+            "tag": "span",
+            "cls": "accordion__title",
+            "text": "Adresse",
+            "size": "18.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "0.184px",
+            "lh": "29.44px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "span",
+            "cls": "accordion__title",
+            "text": "Horaires",
+            "size": "18.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "0.184px",
+            "lh": "29.44px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "span",
+            "cls": "accordion__title",
+            "text": "Durée & rythme",
+            "size": "18.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "0.184px",
+            "lh": "29.44px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "span",
+            "cls": "accordion__title",
+            "text": "Tarif",
+            "size": "18.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "0.184px",
+            "lh": "29.44px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "span",
+            "cls": "accordion__title",
+            "text": "Dress code",
+            "size": "18.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "0.184px",
+            "lh": "29.44px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "h2",
+            "cls": "section-title",
+            "text": "Questions",
+            "size": "54.4px",
+            "weight": "200",
+            "family": "Montserrat",
+            "transform": "uppercase",
+            "ls": "2.176px",
+            "lh": "62.56px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "span",
+            "cls": "accordion__title",
+            "text": "Y a-t-il un menu unique ?",
+            "size": "18.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "0.184px",
+            "lh": "29.44px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "span",
+            "cls": "accordion__title",
+            "text": "Allergies, régimes, option végétale ?",
+            "size": "18.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "0.184px",
+            "lh": "29.44px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "span",
+            "cls": "accordion__title",
+            "text": "Les enfants sont-ils acceptés ?",
+            "size": "18.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "0.184px",
+            "lh": "29.44px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "span",
+            "cls": "accordion__title",
+            "text": "Peut-on offrir une expérience ?",
+            "size": "18.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "0.184px",
+            "lh": "29.44px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "span",
+            "cls": "accordion__title",
+            "text": "Annulation ?",
+            "size": "18.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "0.184px",
+            "lh": "29.44px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "span",
+            "cls": "accordion__title",
+            "text": "Privatiser la salle ?",
+            "size": "18.4px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "0.184px",
+            "lh": "29.44px",
+            "color": "rgb(236, 231, 219)"
+          },
+          {
+            "tag": "span",
+            "cls": "next__label",
+            "text": "Retour à l'accueil",
+            "size": "60.8px",
+            "weight": "400",
+            "family": "Montserrat",
+            "transform": "none",
+            "ls": "-1.216px",
+            "lh": "97.28px",
+            "color": "rgb(236, 231, 219)"
+          }
+        ],
+        "fonts": {
+          "Montserrat": true,
+          "Jost": true,
+          "Inter": true,
+          "Poppins": true
+        },
+        "sizes": {
+          "54.4px": 2,
+          "38.4px": 1,
+          "10.88px": 6,
+          "18.4px": 11,
+          "60.8px": 1
+        },
+        "bodyFont": "Montserrat, -apple-system, \"Segoe UI\", sans-serif"
+      },
+      "overflowTop": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "horizontalScroll": false,
+        "count": 0,
+        "offenders": []
+      },
+      "overflowAfter": {
+        "viewport": 1440,
+        "scrollWidth": 1440,
+        "horizontalScroll": false,
+        "count": 0,
+        "offenders": []
+      },
+      "contrast": [],
+      "imgstat": [
+        {
+          "file": "porte-exterieur.jpg",
+          "meanLum": 17,
+          "meanLumPct": 7,
+          "magentaPct": 6
+        },
+        {
+          "file": "table-detail.jpg",
+          "meanLum": 28,
+          "meanLumPct": 11,
+          "magentaPct": 7
+        }
+      ],
+      "console": [],
+      "failedReq": []
+    },
+    "home__mobile": {
+      "url": "/",
+      "vp": {
+        "name": "mobile",
+        "width": 375,
+        "height": 812
+      },
+      "docHeight": 4052,
+      "spec": {
+        "title": "AZOTE — Cuisine moléculaire · Lyon",
+        "lang": "fr",
+        "bodyBg": "rgb(10, 10, 12)",
+        "bodyColor": "rgb(236, 231, 219)",
+        "magentaUsage": 6,
+        "pillOutlineCount": 1,
+        "creamSections": 1,
+        "pagination01": null,
+        "svgInline": 0,
+        "threeColGrids": 0,
+        "imgCount": 5,
+        "imgBroken": 0,
+        "imgs": [
+          {
+            "file": "hero-cloche.jpg",
+            "nat": "1376x768",
+            "rendered": "375x812",
+            "alt": "",
+            "ok": true,
+            "loading": "auto"
+          },
+          {
+            "file": "salle-magenta.jpg",
+            "nat": "1376x768",
+            "rendered": "321x266",
+            "alt": "La salle d'AZOTE la nuit, panneaux lumineux magenta, tables dressées",
+            "ok": true,
+            "loading": "auto"
+          },
+          {
+            "file": "plat-sphere.jpg",
+            "nat": "1376x768",
+            "rendered": "390x488",
+            "alt": "Le menu",
+            "ok": true,
+            "loading": "auto"
+          },
+          {
+            "file": "mains-dressage.jpg",
+            "nat": "1376x768",
+            "rendered": "390x488",
+            "alt": "Le chef",
+            "ok": true,
+            "loading": "auto"
+          },
+          {
+            "file": "verre-vin.jpg",
+            "nat": "1376x768",
+            "rendered": "390x488",
+            "alt": "La carte des vins",
+            "ok": true,
+            "loading": "auto"
+          }
+        ],
+        "links": [
+          {
+            "href": "/",
+            "text": "AZOTErestaurant moléculaire"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver une table →"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver"
+          },
+          {
+            "href": "/degustation",
+            "text": "→ Découvrir l'expérience"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "En savoir plus →"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menuDes créations uniques entre tradition "
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le chefUne vision, une exigence, une passion "
+          },
+          {
+            "href": "/degustation",
+            "text": "La carte des vinsUne sélection d'exception po"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver"
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Réserver une table →",
+            "tag": "a"
+          },
+          {
+            "text": "",
+            "tag": "button"
+          },
+          {
+            "text": "→ Découvrir l'expérience",
+            "tag": "a"
+          },
+          {
+            "text": "→",
+            "tag": "span"
+          },
+          {
+            "text": "Haut de page ↑",
+            "tag": "button"
+          }
+        ],
+        "docHeight": 4052
+      },
+      "typo": null,
+      "overflowTop": {
+        "viewport": 375,
+        "scrollWidth": 375,
+        "horizontalScroll": false,
+        "count": 3,
+        "offenders": [
+          {
+            "tag": "img",
+            "cls": "",
+            "w": 390,
+            "oR": 8,
+            "oL": 8,
+            "pos": "static",
+            "ox": "clip",
+            "txt": ""
+          },
+          {
+            "tag": "img",
+            "cls": "",
+            "w": 390,
+            "oR": 8,
+            "oL": 8,
+            "pos": "static",
+            "ox": "clip",
+            "txt": ""
+          },
+          {
+            "tag": "img",
+            "cls": "",
+            "w": 390,
+            "oR": 8,
+            "oL": 8,
+            "pos": "static",
+            "ox": "clip",
+            "txt": ""
+          }
+        ]
+      },
+      "overflowAfter": {
+        "viewport": 375,
+        "scrollWidth": 375,
+        "horizontalScroll": false,
+        "count": 3,
+        "offenders": [
+          {
+            "tag": "img",
+            "cls": "",
+            "w": 420,
+            "oR": 23,
+            "oL": 23,
+            "pos": "static",
+            "ox": "clip",
+            "txt": ""
+          },
+          {
+            "tag": "img",
+            "cls": "",
+            "w": 420,
+            "oR": 23,
+            "oL": 23,
+            "pos": "static",
+            "ox": "clip",
+            "txt": ""
+          },
+          {
+            "tag": "img",
+            "cls": "",
+            "w": 412,
+            "oR": 19,
+            "oL": 19,
+            "pos": "static",
+            "ox": "clip",
+            "txt": ""
+          }
+        ]
+      },
+      "contrast": [],
+      "imgstat": [
+        {
+          "file": "hero-cloche.jpg",
+          "meanLum": 34,
+          "meanLumPct": 13,
+          "magentaPct": 1
+        },
+        {
+          "file": "salle-magenta.jpg",
+          "meanLum": 35,
+          "meanLumPct": 14,
+          "magentaPct": 23
+        },
+        {
+          "file": "plat-sphere.jpg",
+          "meanLum": 27,
+          "meanLumPct": 10,
+          "magentaPct": 0
+        },
+        {
+          "file": "mains-dressage.jpg",
+          "meanLum": 22,
+          "meanLumPct": 9,
+          "magentaPct": 1
+        },
+        {
+          "file": "verre-vin.jpg",
+          "meanLum": 19,
+          "meanLumPct": 7,
+          "magentaPct": 2
+        }
+      ],
+      "console": [],
+      "failedReq": []
+    },
+    "degustation__mobile": {
+      "url": "/degustation",
+      "vp": {
+        "name": "mobile",
+        "width": 375,
+        "height": 812
+      },
+      "docHeight": 5788,
+      "spec": {
+        "title": "AZOTE — Cuisine moléculaire · Lyon",
+        "lang": "fr",
+        "bodyBg": "rgb(10, 10, 12)",
+        "bodyColor": "rgb(236, 231, 219)",
+        "magentaUsage": 23,
+        "pillOutlineCount": 2,
+        "creamSections": 0,
+        "pagination01": null,
+        "svgInline": 0,
+        "threeColGrids": 0,
+        "imgCount": 7,
+        "imgBroken": 3,
+        "imgs": [
+          {
+            "file": "dessert-fumee.jpg",
+            "nat": "1376x768",
+            "rendered": "357x152",
+            "alt": "Dessert sous fumée d'azote",
+            "ok": true,
+            "loading": "auto"
+          },
+          {
+            "file": "plat-sphere.jpg",
+            "nat": "1376x768",
+            "rendered": "333x249",
+            "alt": "Sphère d'olive",
+            "ok": true,
+            "loading": "lazy"
+          },
+          {
+            "file": "caviar-macro.jpg",
+            "nat": "1376x768",
+            "rendered": "333x249",
+            "alt": "Huître, concombre, air de mer",
+            "ok": true,
+            "loading": "lazy"
+          },
+          {
+            "file": "",
+            "nat": "0x0",
+            "rendered": "333x249",
+            "alt": "Pomme de terre, jus de 72 heures",
+            "ok": false,
+            "loading": "lazy"
+          },
+          {
+            "file": "",
+            "nat": "0x0",
+            "rendered": "333x249",
+            "alt": "Saint-Jacques, noir de seiche",
+            "ok": false,
+            "loading": "lazy"
+          },
+          {
+            "file": "dessert-fumee.jpg",
+            "nat": "1376x768",
+            "rendered": "333x249",
+            "alt": "Glace minute citron-basilic",
+            "ok": true,
+            "loading": "lazy"
+          },
+          {
+            "file": "",
+            "nat": "0x0",
+            "rendered": "333x186",
+            "alt": "Cocktail sombre fumant au comptoir",
+            "ok": false,
+            "loading": "lazy"
+          }
+        ],
+        "links": [
+          {
+            "href": "/",
+            "text": "AZOTErestaurant moléculaire"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver une table →"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver une table"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Suite →Le laboratoire"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver"
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Réserver une table →",
+            "tag": "a"
+          },
+          {
+            "text": "",
+            "tag": "button"
+          },
+          {
+            "text": "Réserver une table",
+            "tag": "a"
+          },
+          {
+            "text": "Haut de page ↑",
+            "tag": "button"
+          }
+        ],
+        "docHeight": 5788
+      },
+      "typo": null,
+      "overflowTop": {
+        "viewport": 375,
+        "scrollWidth": 375,
+        "horizontalScroll": false,
+        "count": 0,
+        "offenders": []
+      },
+      "overflowAfter": {
+        "viewport": 375,
+        "scrollWidth": 375,
+        "horizontalScroll": false,
+        "count": 0,
+        "offenders": []
+      },
+      "contrast": [],
+      "imgstat": [
+        {
+          "file": "dessert-fumee.jpg",
+          "meanLum": 33,
+          "meanLumPct": 13,
+          "magentaPct": 1
+        },
+        {
+          "file": "plat-sphere.jpg",
+          "meanLum": 27,
+          "meanLumPct": 10,
+          "magentaPct": 0
+        },
+        {
+          "file": "caviar-macro.jpg",
+          "meanLum": 38,
+          "meanLumPct": 15,
+          "magentaPct": 1
+        },
+        {
+          "file": "",
+          "err": "TypeError: Failed to execute 'getImageData' on 'CanvasRenderingContext2D': Value"
+        },
+        {
+          "file": "",
+          "err": "TypeError: Failed to execute 'getImageData' on 'CanvasRenderingContext2D': Value"
+        },
+        {
+          "file": "dessert-fumee.jpg",
+          "meanLum": 0,
+          "meanLumPct": 0,
+          "magentaPct": 0
+        },
+        {
+          "file": "",
+          "err": "TypeError: Failed to execute 'getImageData' on 'CanvasRenderingContext2D': Value"
+        }
+      ],
+      "console": [],
+      "failedReq": []
+    },
+    "laboratoire__mobile": {
+      "url": "/laboratoire",
+      "vp": {
+        "name": "mobile",
+        "width": 375,
+        "height": 812
+      },
+      "docHeight": 4982,
+      "spec": {
+        "title": "AZOTE — Cuisine moléculaire · Lyon",
+        "lang": "fr",
+        "bodyBg": "rgb(10, 10, 12)",
+        "bodyColor": "rgb(236, 231, 219)",
+        "magentaUsage": 20,
+        "pillOutlineCount": 1,
+        "creamSections": 1,
+        "pagination01": null,
+        "svgInline": 0,
+        "threeColGrids": 0,
+        "imgCount": 3,
+        "imgBroken": 0,
+        "imgs": [
+          {
+            "file": "ingredients-etale.jpg",
+            "nat": "1376x768",
+            "rendered": "358x152",
+            "alt": "Paillasse du laboratoire : éprouvettes, pinces, ingrédients",
+            "ok": true,
+            "loading": "auto"
+          },
+          {
+            "file": "bar-comptoir.jpg",
+            "nat": "1376x768",
+            "rendered": "390x128",
+            "alt": "",
+            "ok": true,
+            "loading": "auto"
+          },
+          {
+            "file": "cuisine-silhouette.jpg",
+            "nat": "1376x768",
+            "rendered": "346x462",
+            "alt": "Élise Moreau en cuisine, silhouette dans la vapeur",
+            "ok": true,
+            "loading": "auto"
+          }
+        ],
+        "links": [
+          {
+            "href": "/",
+            "text": "AZOTErestaurant moléculaire"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver une table →"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver"
+          },
+          {
+            "href": "/reserver",
+            "text": "Suite →Réserver une table"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver"
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Réserver une table →",
+            "tag": "a"
+          },
+          {
+            "text": "",
+            "tag": "button"
+          },
+          {
+            "text": "Haut de page ↑",
+            "tag": "button"
+          }
+        ],
+        "docHeight": 4982
+      },
+      "typo": null,
+      "overflowTop": {
+        "viewport": 375,
+        "scrollWidth": 375,
+        "horizontalScroll": false,
+        "count": 1,
+        "offenders": [
+          {
+            "tag": "img",
+            "cls": "",
+            "w": 390,
+            "oR": 8,
+            "oL": 8,
+            "pos": "static",
+            "ox": "clip",
+            "txt": ""
+          }
+        ]
+      },
+      "overflowAfter": {
+        "viewport": 375,
+        "scrollWidth": 375,
+        "horizontalScroll": false,
+        "count": 1,
+        "offenders": [
+          {
+            "tag": "img",
+            "cls": "",
+            "w": 420,
+            "oR": 23,
+            "oL": 23,
+            "pos": "static",
+            "ox": "clip",
+            "txt": ""
+          }
+        ]
+      },
+      "contrast": [],
+      "imgstat": [
+        {
+          "file": "ingredients-etale.jpg",
+          "meanLum": 27,
+          "meanLumPct": 11,
+          "magentaPct": 7
+        },
+        {
+          "file": "bar-comptoir.jpg",
+          "meanLum": 27,
+          "meanLumPct": 10,
+          "magentaPct": 1
+        },
+        {
+          "file": "cuisine-silhouette.jpg",
+          "meanLum": 18,
+          "meanLumPct": 7,
+          "magentaPct": 4
+        }
+      ],
+      "console": [],
+      "failedReq": []
+    },
+    "reserver__mobile": {
+      "url": "/reserver",
+      "vp": {
+        "name": "mobile",
+        "width": 375,
+        "height": 812
+      },
+      "docHeight": 3929,
+      "spec": {
+        "title": "AZOTE — Cuisine moléculaire · Lyon",
+        "lang": "fr",
+        "bodyBg": "rgb(10, 10, 12)",
+        "bodyColor": "rgb(236, 231, 219)",
+        "magentaUsage": 26,
+        "pillOutlineCount": 1,
+        "creamSections": 0,
+        "pagination01": null,
+        "svgInline": 0,
+        "threeColGrids": 0,
+        "imgCount": 2,
+        "imgBroken": 0,
+        "imgs": [
+          {
+            "file": "porte-exterieur.jpg",
+            "nat": "1376x768",
+            "rendered": "357x201",
+            "alt": "La porte noire d’AZOTE la nuit, petit panneau magenta",
+            "ok": true,
+            "loading": "auto"
+          },
+          {
+            "file": "table-detail.jpg",
+            "nat": "1376x768",
+            "rendered": "352x198",
+            "alt": "Détail de table : couverts noirs, lin plié, flamme",
+            "ok": true,
+            "loading": "auto"
+          }
+        ],
+        "links": [
+          {
+            "href": "/",
+            "text": "AZOTErestaurant moléculaire"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver une table →"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver"
+          },
+          {
+            "href": "/",
+            "text": "Suite →Retour à l'accueil"
+          },
+          {
+            "href": "/laboratoire",
+            "text": "Le concept"
+          },
+          {
+            "href": "/degustation",
+            "text": "Le menu"
+          },
+          {
+            "href": "/reserver",
+            "text": "Réserver"
+          }
+        ],
+        "buttons": [
+          {
+            "text": "Réserver une table →",
+            "tag": "a"
+          },
+          {
+            "text": "",
+            "tag": "button"
+          },
+          {
+            "text": "Valider le protocole",
+            "tag": "button"
+          },
+          {
+            "text": "Adresse−",
+            "tag": "button"
+          },
+          {
+            "text": "Horaires+",
+            "tag": "button"
+          },
+          {
+            "text": "Durée & rythme+",
+            "tag": "button"
+          },
+          {
+            "text": "Tarif+",
+            "tag": "button"
+          },
+          {
+            "text": "Dress code+",
+            "tag": "button"
+          },
+          {
+            "text": "Y a-t-il un menu unique ?−",
+            "tag": "button"
+          },
+          {
+            "text": "Allergies, régimes, option végétale ?+",
+            "tag": "button"
+          },
+          {
+            "text": "Les enfants sont-ils acceptés ?+",
+            "tag": "button"
+          },
+          {
+            "text": "Peut-on offrir une expérience ?+",
+            "tag": "button"
+          },
+          {
+            "text": "Annulation ?+",
+            "tag": "button"
+          },
+          {
+            "text": "Privatiser la salle ?+",
+            "tag": "button"
+          },
+          {
+            "text": "Haut de page ↑",
+            "tag": "button"
+          }
+        ],
+        "docHeight": 3929
+      },
+      "typo": null,
+      "overflowTop": {
+        "viewport": 375,
+        "scrollWidth": 375,
+        "horizontalScroll": false,
+        "count": 0,
+        "offenders": []
+      },
+      "overflowAfter": {
+        "viewport": 375,
+        "scrollWidth": 375,
+        "horizontalScroll": false,
+        "count": 0,
+        "offenders": []
+      },
+      "contrast": [],
+      "imgstat": [
+        {
+          "file": "porte-exterieur.jpg",
+          "meanLum": 17,
+          "meanLumPct": 7,
+          "magentaPct": 6
+        },
+        {
+          "file": "table-detail.jpg",
+          "meanLum": 28,
+          "meanLumPct": 11,
+          "magentaPct": 7
+        }
+      ],
+      "console": [],
+      "failedReq": []
+    }
+  },
+  "links": {
+    "/": 200,
+    "/laboratoire": 200,
+    "/degustation": 200,
+    "/reserver": 200
+  },
+  "inter": {
+    "burger": {
+      "candidates": [
+        {
+          "cls": "nav__burger",
+          "aria": "Ouvrir le menu",
+          "txt": ""
+        },
+        {
+          "cls": "nav__burger-bar",
+          "aria": null,
+          "txt": ""
+        },
+        {
+          "cls": "nav__burger-bar",
+          "aria": null,
+          "txt": ""
+        }
+      ],
+      "result": {
+        "overlays": 1,
+        "visibleNavLinks": 5
+      }
+    },
+    "form": {
+      "formInfo": {
+        "hasForm": true,
+        "inputs": [
+          {
+            "name": "",
+            "type": "text",
+            "required": true
+          },
+          {
+            "name": "",
+            "type": "email",
+            "required": true
+          },
+          {
+            "name": "",
+            "type": "date",
+            "required": true
+          },
+          {
+            "name": "",
+            "type": "select-one",
+            "required": false
+          },
+          {
+            "name": "",
+            "type": "radio",
+            "required": false
+          },
+          {
+            "name": "",
+            "type": "radio",
+            "required": false
+          },
+          {
+            "name": "",
+            "type": "text",
+            "required": false
+          }
+        ],
+        "submit": [
+          "Valider le protocole"
+        ]
+      },
+      "filled": 5,
+      "emptySubmit": {
+        "invalidCount": 4,
+        "bodyText": "",
+        "shownErrors": []
+      },
+      "afterValid": {
+        "invalidCount": 0,
+        "alerts": [
+          "Protocole validéAZ-321Jean Test — 2 couverts, 2026-10-15, service 21:15. Une confirmation part vers test@test.fr. À tabl",
+          "Protocole validé",
+          "AZ-321",
+          "Jean Test — 2 couverts, 2026-10-15, service 21:15. Une confirmation part vers test@test.fr. À table."
+        ],
+        "formStillVisible": false,
+        "dialog": false
+      },
+      "pageErrors": []
+    },
+    "faq": {
+      "faqBefore": [
+        {
+          "tag": "button",
+          "open": "true",
+          "h": 73
+        },
+        {
+          "tag": "button",
+          "open": "false",
+          "h": 73
+        },
+        {
+          "tag": "button",
+          "open": "false",
+          "h": 73
+        },
+        {
+          "tag": "button",
+          "open": "false",
+          "h": 73
+        },
+        {
+          "tag": "button",
+          "open": "false",
+          "h": 73
+        },
+        {
+          "tag": "button",
+          "open": "true",
+          "h": 73
+        },
+        {
+          "tag": "button",
+          "open": "false",
+          "h": 73
+        },
+        {
+          "tag": "button",
+          "open": "false",
+          "h": 73
+        }
+      ],
+      "faqAfter": [
+        {
+          "open": "false"
+        },
+        {
+          "open": "false"
+        },
+        {
+          "open": "false"
+        },
+        {
+          "open": "false"
+        },
+        {
+          "open": "false"
+        },
+        {
+          "open": "true"
+        },
+        {
+          "open": "false"
+        },
+        {
+          "open": "false"
+        }
+      ]
+    },
+    "navFlow": [
+      {
+        "url": "/",
+        "ok": true
+      },
+      {
+        "url": "/degustation",
+        "ok": true
+      },
+      {
+        "url": "/laboratoire",
+        "ok": true
+      },
+      {
+        "url": "/reserver",
+        "ok": true
+      }
+    ]
+  },
+  "notFound": {
+    "text": "AZOTE\nRESTAURANT MOLÉCULAIRE\nLE CONCEPT\nLE MENU\nRÉSERVER UNE TABLE →\n\nERREUR 404\n\nPAGE\nINTROUVABLE.\n\n/page-inexistante\n\nCette séquence n'existe pas dans le protocole. Retour au menu principal.\n\nRETOUR À L'ACCUEIL\n\nLA SCIENCE À TABLE.\n\n14 rue des Capucins, 69001 Lyon — restaurant fictif, site de démo",
+    "title": "AZOTE — Cuisine moléculaire · Lyon"
+  }
+}

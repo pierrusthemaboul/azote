@@ -1,0 +1,1454 @@
+{
+  "home__desktop": {
+    "url": "/",
+    "viewport": {
+      "name": "desktop",
+      "width": 1440,
+      "height": 900
+    },
+    "docHeight": 3660,
+    "misc": {
+      "title": "AZOTE — Cuisine moléculaire · Lyon",
+      "bodyBg": "rgb(236, 231, 219)",
+      "htmlBg": "rgb(236, 231, 219)",
+      "bodyFont": "Fraunces, Georgia, serif",
+      "rootFontSize": "16px",
+      "fontsLoaded": {
+        "Fraunces": true,
+        "IBM Plex Mono": true,
+        "IBM Plex Sans": true
+      },
+      "h1": {
+        "text": "La table précise.",
+        "font": "Fraunces, Georgia, serif",
+        "size": "136px",
+        "weight": "400",
+        "transform": "none"
+      },
+      "imgCount": 2,
+      "imgBroken": 0,
+      "imgs": [
+        {
+          "src": "azote-gravure.svg",
+          "w": 150,
+          "h": 150,
+          "ok": true,
+          "alt": "Gravure botanique : branche d'olivier"
+        },
+        {
+          "src": "azote-photo.svg",
+          "w": 225,
+          "h": 150,
+          "ok": true,
+          "alt": "Nature morte au flash : tomate sur socle de porcelaine, fond oxblood"
+        }
+      ],
+      "accentColorUsageCount": 41,
+      "navLinks": [
+        "AZOTE.cuisine moléculaire",
+        "01La dégustation",
+        "02Le laboratoire",
+        "03Réserver"
+      ],
+      "dottedLeaderEls": 3,
+      "docHeight": 3660
+    },
+    "overflowAtTop": {
+      "viewport": 1440,
+      "docScrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "horizontalScroll": false,
+      "offenders": [
+        {
+          "tag": "div",
+          "cls": "marquee__track",
+          "left": -73,
+          "right": 2416,
+          "width": 2489,
+          "overRight": 976,
+          "overLeft": 73,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__group",
+          "left": -73,
+          "right": 1172,
+          "width": 1245,
+          "overRight": -268,
+          "overLeft": 73,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": -73,
+          "right": 72,
+          "width": 145,
+          "overRight": -1368,
+          "overLeft": 73,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__group",
+          "left": 1172,
+          "right": 2416,
+          "width": 1244,
+          "overRight": 976,
+          "overLeft": -1172,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1320,
+          "right": 1518,
+          "width": 198,
+          "overRight": 78,
+          "overLeft": -1320,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 1518,
+          "right": 1522,
+          "width": 4,
+          "overRight": 82,
+          "overLeft": -1518,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1522,
+          "right": 1676,
+          "width": 154,
+          "overRight": 236,
+          "overLeft": -1522,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 1676,
+          "right": 1680,
+          "width": 4,
+          "overRight": 240,
+          "overLeft": -1676,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1680,
+          "right": 1864,
+          "width": 184,
+          "overRight": 424,
+          "overLeft": -1680,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 1864,
+          "right": 1868,
+          "width": 4,
+          "overRight": 428,
+          "overLeft": -1864,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1868,
+          "right": 2022,
+          "width": 154,
+          "overRight": 582,
+          "overLeft": -1868,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 2022,
+          "right": 2026,
+          "width": 4,
+          "overRight": 586,
+          "overLeft": -2022,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 2026,
+          "right": 2153,
+          "width": 128,
+          "overRight": 713,
+          "overLeft": -2026,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 2153,
+          "right": 2157,
+          "width": 4,
+          "overRight": 717,
+          "overLeft": -2153,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 2157,
+          "right": 2282,
+          "width": 125,
+          "overRight": 842,
+          "overLeft": -2157,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 2282,
+          "right": 2286,
+          "width": 4,
+          "overRight": 846,
+          "overLeft": -2282,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 2286,
+          "right": 2412,
+          "width": 126,
+          "overRight": 972,
+          "overLeft": -2286,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 2412,
+          "right": 2416,
+          "width": 4,
+          "overRight": 976,
+          "overLeft": -2412,
+          "pos": "static",
+          "overflowX": "visible"
+        }
+      ],
+      "offenderCount": 18
+    },
+    "overflowAfterScroll": {
+      "viewport": 1440,
+      "docScrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "horizontalScroll": false,
+      "offenders": [
+        {
+          "tag": "div",
+          "cls": "marquee__track",
+          "left": -467,
+          "right": 2022,
+          "width": 2489,
+          "overRight": 582,
+          "overLeft": 467,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__group",
+          "left": -467,
+          "right": 777,
+          "width": 1245,
+          "overRight": -663,
+          "overLeft": 467,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": -467,
+          "right": -322,
+          "width": 145,
+          "overRight": -1762,
+          "overLeft": 467,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": -322,
+          "right": -318,
+          "width": 4,
+          "overRight": -1758,
+          "overLeft": 322,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": -318,
+          "right": -120,
+          "width": 198,
+          "overRight": -1560,
+          "overLeft": 318,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": -120,
+          "right": -116,
+          "width": 4,
+          "overRight": -1556,
+          "overLeft": 120,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": -116,
+          "right": 38,
+          "width": 154,
+          "overRight": -1402,
+          "overLeft": 116,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__group",
+          "left": 777,
+          "right": 2022,
+          "width": 1245,
+          "overRight": 582,
+          "overLeft": -777,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1286,
+          "right": 1470,
+          "width": 184,
+          "overRight": 30,
+          "overLeft": -1286,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 1470,
+          "right": 1474,
+          "width": 4,
+          "overRight": 34,
+          "overLeft": -1470,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1474,
+          "right": 1628,
+          "width": 154,
+          "overRight": 188,
+          "overLeft": -1474,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 1628,
+          "right": 1632,
+          "width": 4,
+          "overRight": 192,
+          "overLeft": -1628,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1632,
+          "right": 1759,
+          "width": 128,
+          "overRight": 319,
+          "overLeft": -1632,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 1759,
+          "right": 1763,
+          "width": 4,
+          "overRight": 323,
+          "overLeft": -1759,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1763,
+          "right": 1888,
+          "width": 125,
+          "overRight": 448,
+          "overLeft": -1763,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 1888,
+          "right": 1892,
+          "width": 4,
+          "overRight": 452,
+          "overLeft": -1888,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1892,
+          "right": 2018,
+          "width": 126,
+          "overRight": 578,
+          "overLeft": -1892,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 2018,
+          "right": 2022,
+          "width": 4,
+          "overRight": 582,
+          "overLeft": -2018,
+          "pos": "static",
+          "overflowX": "visible"
+        }
+      ],
+      "offenderCount": 18
+    },
+    "contrastIssues": [],
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  "degustation__desktop": {
+    "url": "/degustation",
+    "viewport": {
+      "name": "desktop",
+      "width": 1440,
+      "height": 900
+    },
+    "docHeight": 3249,
+    "misc": {
+      "title": "AZOTE — Cuisine moléculaire · Lyon",
+      "bodyBg": "rgb(236, 231, 219)",
+      "htmlBg": "rgb(236, 231, 219)",
+      "bodyFont": "Fraunces, Georgia, serif",
+      "rootFontSize": "16px",
+      "fontsLoaded": {
+        "Fraunces": true,
+        "IBM Plex Mono": true,
+        "IBM Plex Sans": true
+      },
+      "h1": {
+        "text": "La dégustation",
+        "font": "Fraunces, Georgia, serif",
+        "size": "80px",
+        "weight": "400",
+        "transform": "none"
+      },
+      "imgCount": 0,
+      "imgBroken": 0,
+      "imgs": [],
+      "accentColorUsageCount": 22,
+      "navLinks": [
+        "AZOTE.cuisine moléculaire",
+        "01La dégustation",
+        "02Le laboratoire",
+        "03Réserver"
+      ],
+      "dottedLeaderEls": 7,
+      "docHeight": 3249
+    },
+    "overflowAtTop": {
+      "viewport": 1440,
+      "docScrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "horizontalScroll": false,
+      "offenders": [],
+      "offenderCount": 0
+    },
+    "overflowAfterScroll": {
+      "viewport": 1440,
+      "docScrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "horizontalScroll": false,
+      "offenders": [],
+      "offenderCount": 0
+    },
+    "contrastIssues": [],
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  "laboratoire__desktop": {
+    "url": "/laboratoire",
+    "viewport": {
+      "name": "desktop",
+      "width": 1440,
+      "height": 900
+    },
+    "docHeight": 3674,
+    "misc": {
+      "title": "AZOTE — Cuisine moléculaire · Lyon",
+      "bodyBg": "rgb(236, 231, 219)",
+      "htmlBg": "rgb(236, 231, 219)",
+      "bodyFont": "Fraunces, Georgia, serif",
+      "rootFontSize": "16px",
+      "fontsLoaded": {
+        "Fraunces": true,
+        "IBM Plex Mono": true,
+        "IBM Plex Sans": true
+      },
+      "h1": {
+        "text": "Le laboratoire",
+        "font": "Fraunces, Georgia, serif",
+        "size": "80px",
+        "weight": "400",
+        "transform": "none"
+      },
+      "imgCount": 0,
+      "imgBroken": 0,
+      "imgs": [],
+      "accentColorUsageCount": 25,
+      "navLinks": [
+        "AZOTE.cuisine moléculaire",
+        "01La dégustation",
+        "02Le laboratoire",
+        "03Réserver"
+      ],
+      "dottedLeaderEls": 0,
+      "docHeight": 3674
+    },
+    "overflowAtTop": {
+      "viewport": 1440,
+      "docScrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "horizontalScroll": false,
+      "offenders": [],
+      "offenderCount": 0
+    },
+    "overflowAfterScroll": {
+      "viewport": 1440,
+      "docScrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "horizontalScroll": false,
+      "offenders": [],
+      "offenderCount": 0
+    },
+    "contrastIssues": [],
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  "reserver__desktop": {
+    "url": "/reserver",
+    "viewport": {
+      "name": "desktop",
+      "width": 1440,
+      "height": 900
+    },
+    "docHeight": 3034,
+    "misc": {
+      "title": "AZOTE — Cuisine moléculaire · Lyon",
+      "bodyBg": "rgb(236, 231, 219)",
+      "htmlBg": "rgb(236, 231, 219)",
+      "bodyFont": "Fraunces, Georgia, serif",
+      "rootFontSize": "16px",
+      "fontsLoaded": {
+        "Fraunces": true,
+        "IBM Plex Mono": true,
+        "IBM Plex Sans": true
+      },
+      "h1": {
+        "text": "Réserver",
+        "font": "Fraunces, Georgia, serif",
+        "size": "80px",
+        "weight": "400",
+        "transform": "none"
+      },
+      "imgCount": 0,
+      "imgBroken": 0,
+      "imgs": [],
+      "accentColorUsageCount": 32,
+      "navLinks": [
+        "AZOTE.cuisine moléculaire",
+        "01La dégustation",
+        "02Le laboratoire",
+        "03Réserver"
+      ],
+      "dottedLeaderEls": 0,
+      "docHeight": 3034
+    },
+    "overflowAtTop": {
+      "viewport": 1440,
+      "docScrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "horizontalScroll": false,
+      "offenders": [],
+      "offenderCount": 0
+    },
+    "overflowAfterScroll": {
+      "viewport": 1440,
+      "docScrollWidth": 1440,
+      "bodyScrollWidth": 1440,
+      "horizontalScroll": false,
+      "offenders": [],
+      "offenderCount": 0
+    },
+    "contrastIssues": [],
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  "home__mobile": {
+    "url": "/",
+    "viewport": {
+      "name": "mobile",
+      "width": 375,
+      "height": 812
+    },
+    "docHeight": 3842,
+    "misc": {
+      "title": "AZOTE — Cuisine moléculaire · Lyon",
+      "bodyBg": "rgb(236, 231, 219)",
+      "htmlBg": "rgb(236, 231, 219)",
+      "bodyFont": "Fraunces, Georgia, serif",
+      "rootFontSize": "16px",
+      "fontsLoaded": {
+        "Fraunces": true,
+        "IBM Plex Mono": true,
+        "IBM Plex Sans": true
+      },
+      "h1": {
+        "text": "La table précise.",
+        "font": "Fraunces, Georgia, serif",
+        "size": "51.2px",
+        "weight": "400",
+        "transform": "none"
+      },
+      "imgCount": 2,
+      "imgBroken": 0,
+      "imgs": [
+        {
+          "src": "azote-gravure.svg",
+          "w": 150,
+          "h": 150,
+          "ok": true,
+          "alt": "Gravure botanique : branche d'olivier"
+        },
+        {
+          "src": "azote-photo.svg",
+          "w": 225,
+          "h": 150,
+          "ok": true,
+          "alt": "Nature morte au flash : tomate sur socle de porcelaine, fond oxblood"
+        }
+      ],
+      "accentColorUsageCount": 41,
+      "navLinks": [
+        "AZOTE.cuisine moléculaire",
+        "01La dégustation",
+        "02Le laboratoire",
+        "03Réserver"
+      ],
+      "dottedLeaderEls": 3,
+      "docHeight": 3842
+    },
+    "overflowAtTop": {
+      "viewport": 375,
+      "docScrollWidth": 375,
+      "bodyScrollWidth": 375,
+      "horizontalScroll": false,
+      "offenders": [
+        {
+          "tag": "div",
+          "cls": "marquee__track",
+          "left": -77,
+          "right": 2412,
+          "width": 2489,
+          "overRight": 2037,
+          "overLeft": 77,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__group",
+          "left": -77,
+          "right": 1167,
+          "width": 1245,
+          "overRight": 792,
+          "overLeft": 77,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": -77,
+          "right": 68,
+          "width": 145,
+          "overRight": -307,
+          "overLeft": 77,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 273,
+          "right": 427,
+          "width": 154,
+          "overRight": 52,
+          "overLeft": -273,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 427,
+          "right": 431,
+          "width": 4,
+          "overRight": 56,
+          "overLeft": -427,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 431,
+          "right": 615,
+          "width": 184,
+          "overRight": 240,
+          "overLeft": -431,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 615,
+          "right": 619,
+          "width": 4,
+          "overRight": 244,
+          "overLeft": -615,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 619,
+          "right": 773,
+          "width": 154,
+          "overRight": 398,
+          "overLeft": -619,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 773,
+          "right": 777,
+          "width": 4,
+          "overRight": 402,
+          "overLeft": -773,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 777,
+          "right": 904,
+          "width": 128,
+          "overRight": 529,
+          "overLeft": -777,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 904,
+          "right": 908,
+          "width": 4,
+          "overRight": 533,
+          "overLeft": -904,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 908,
+          "right": 1033,
+          "width": 125,
+          "overRight": 658,
+          "overLeft": -908,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 1033,
+          "right": 1037,
+          "width": 4,
+          "overRight": 662,
+          "overLeft": -1033,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1037,
+          "right": 1163,
+          "width": 126,
+          "overRight": 788,
+          "overLeft": -1037,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 1163,
+          "right": 1167,
+          "width": 4,
+          "overRight": 792,
+          "overLeft": -1163,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__group",
+          "left": 1167,
+          "right": 2412,
+          "width": 1244,
+          "overRight": 2037,
+          "overLeft": -1167,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1167,
+          "right": 1312,
+          "width": 145,
+          "overRight": 937,
+          "overLeft": -1167,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 1312,
+          "right": 1316,
+          "width": 4,
+          "overRight": 941,
+          "overLeft": -1312,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1316,
+          "right": 1514,
+          "width": 198,
+          "overRight": 1139,
+          "overLeft": -1316,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 1514,
+          "right": 1518,
+          "width": 4,
+          "overRight": 1143,
+          "overLeft": -1514,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1518,
+          "right": 1672,
+          "width": 154,
+          "overRight": 1297,
+          "overLeft": -1518,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 1672,
+          "right": 1676,
+          "width": 4,
+          "overRight": 1301,
+          "overLeft": -1672,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1676,
+          "right": 1860,
+          "width": 184,
+          "overRight": 1485,
+          "overLeft": -1676,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 1860,
+          "right": 1864,
+          "width": 4,
+          "overRight": 1489,
+          "overLeft": -1860,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1864,
+          "right": 2017,
+          "width": 154,
+          "overRight": 1642,
+          "overLeft": -1864,
+          "pos": "static",
+          "overflowX": "visible"
+        }
+      ],
+      "offenderCount": 32
+    },
+    "overflowAfterScroll": {
+      "viewport": 375,
+      "docScrollWidth": 375,
+      "bodyScrollWidth": 375,
+      "horizontalScroll": false,
+      "offenders": [
+        {
+          "tag": "div",
+          "cls": "marquee__track",
+          "left": -523,
+          "right": 1966,
+          "width": 2489,
+          "overRight": 1591,
+          "overLeft": 523,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__group",
+          "left": -523,
+          "right": 721,
+          "width": 1245,
+          "overRight": 346,
+          "overLeft": 523,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": -523,
+          "right": -378,
+          "width": 145,
+          "overRight": -753,
+          "overLeft": 523,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": -378,
+          "right": -374,
+          "width": 4,
+          "overRight": -749,
+          "overLeft": 378,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": -374,
+          "right": -176,
+          "width": 198,
+          "overRight": -551,
+          "overLeft": 374,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": -176,
+          "right": -173,
+          "width": 4,
+          "overRight": -548,
+          "overLeft": 176,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": -173,
+          "right": -19,
+          "width": 154,
+          "overRight": -394,
+          "overLeft": 173,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": -19,
+          "right": -15,
+          "width": 4,
+          "overRight": -390,
+          "overLeft": 19,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": -15,
+          "right": 169,
+          "width": 184,
+          "overRight": -206,
+          "overLeft": 15,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 331,
+          "right": 459,
+          "width": 128,
+          "overRight": 84,
+          "overLeft": -331,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 459,
+          "right": 462,
+          "width": 4,
+          "overRight": 87,
+          "overLeft": -459,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 462,
+          "right": 587,
+          "width": 125,
+          "overRight": 212,
+          "overLeft": -462,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 587,
+          "right": 591,
+          "width": 4,
+          "overRight": 216,
+          "overLeft": -587,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 591,
+          "right": 717,
+          "width": 126,
+          "overRight": 342,
+          "overLeft": -591,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 717,
+          "right": 721,
+          "width": 4,
+          "overRight": 346,
+          "overLeft": -717,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__group",
+          "left": 721,
+          "right": 1966,
+          "width": 1245,
+          "overRight": 1591,
+          "overLeft": -721,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 721,
+          "right": 866,
+          "width": 145,
+          "overRight": 491,
+          "overLeft": -721,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 866,
+          "right": 870,
+          "width": 4,
+          "overRight": 495,
+          "overLeft": -866,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 870,
+          "right": 1068,
+          "width": 198,
+          "overRight": 693,
+          "overLeft": -870,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 1068,
+          "right": 1072,
+          "width": 4,
+          "overRight": 697,
+          "overLeft": -1068,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1072,
+          "right": 1226,
+          "width": 154,
+          "overRight": 851,
+          "overLeft": -1072,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 1226,
+          "right": 1230,
+          "width": 4,
+          "overRight": 855,
+          "overLeft": -1226,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1230,
+          "right": 1414,
+          "width": 184,
+          "overRight": 1039,
+          "overLeft": -1230,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__sep",
+          "left": 1414,
+          "right": 1418,
+          "width": 4,
+          "overRight": 1043,
+          "overLeft": -1414,
+          "pos": "static",
+          "overflowX": "visible"
+        },
+        {
+          "tag": "span",
+          "cls": "marquee__item",
+          "left": 1418,
+          "right": 1571,
+          "width": 154,
+          "overRight": 1196,
+          "overLeft": -1418,
+          "pos": "static",
+          "overflowX": "visible"
+        }
+      ],
+      "offenderCount": 32
+    },
+    "contrastIssues": [],
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  "degustation__mobile": {
+    "url": "/degustation",
+    "viewport": {
+      "name": "mobile",
+      "width": 375,
+      "height": 812
+    },
+    "docHeight": 3636,
+    "misc": {
+      "title": "AZOTE — Cuisine moléculaire · Lyon",
+      "bodyBg": "rgb(236, 231, 219)",
+      "htmlBg": "rgb(236, 231, 219)",
+      "bodyFont": "Fraunces, Georgia, serif",
+      "rootFontSize": "16px",
+      "fontsLoaded": {
+        "Fraunces": true,
+        "IBM Plex Mono": true,
+        "IBM Plex Sans": true
+      },
+      "h1": {
+        "text": "La dégustation",
+        "font": "Fraunces, Georgia, serif",
+        "size": "38.4px",
+        "weight": "400",
+        "transform": "none"
+      },
+      "imgCount": 0,
+      "imgBroken": 0,
+      "imgs": [],
+      "accentColorUsageCount": 22,
+      "navLinks": [
+        "AZOTE.cuisine moléculaire",
+        "01La dégustation",
+        "02Le laboratoire",
+        "03Réserver"
+      ],
+      "dottedLeaderEls": 7,
+      "docHeight": 3636
+    },
+    "overflowAtTop": {
+      "viewport": 375,
+      "docScrollWidth": 375,
+      "bodyScrollWidth": 375,
+      "horizontalScroll": false,
+      "offenders": [],
+      "offenderCount": 0
+    },
+    "overflowAfterScroll": {
+      "viewport": 375,
+      "docScrollWidth": 375,
+      "bodyScrollWidth": 375,
+      "horizontalScroll": false,
+      "offenders": [],
+      "offenderCount": 0
+    },
+    "contrastIssues": [],
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  "laboratoire__mobile": {
+    "url": "/laboratoire",
+    "viewport": {
+      "name": "mobile",
+      "width": 375,
+      "height": 812
+    },
+    "docHeight": 4216,
+    "misc": {
+      "title": "AZOTE — Cuisine moléculaire · Lyon",
+      "bodyBg": "rgb(236, 231, 219)",
+      "htmlBg": "rgb(236, 231, 219)",
+      "bodyFont": "Fraunces, Georgia, serif",
+      "rootFontSize": "16px",
+      "fontsLoaded": {
+        "Fraunces": true,
+        "IBM Plex Mono": true,
+        "IBM Plex Sans": true
+      },
+      "h1": {
+        "text": "Le laboratoire",
+        "font": "Fraunces, Georgia, serif",
+        "size": "38.4px",
+        "weight": "400",
+        "transform": "none"
+      },
+      "imgCount": 0,
+      "imgBroken": 0,
+      "imgs": [],
+      "accentColorUsageCount": 25,
+      "navLinks": [
+        "AZOTE.cuisine moléculaire",
+        "01La dégustation",
+        "02Le laboratoire",
+        "03Réserver"
+      ],
+      "dottedLeaderEls": 0,
+      "docHeight": 4216
+    },
+    "overflowAtTop": {
+      "viewport": 375,
+      "docScrollWidth": 375,
+      "bodyScrollWidth": 375,
+      "horizontalScroll": false,
+      "offenders": [],
+      "offenderCount": 0
+    },
+    "overflowAfterScroll": {
+      "viewport": 375,
+      "docScrollWidth": 375,
+      "bodyScrollWidth": 375,
+      "horizontalScroll": false,
+      "offenders": [],
+      "offenderCount": 0
+    },
+    "contrastIssues": [],
+    "consoleErrors": [],
+    "failedRequests": []
+  },
+  "reserver__mobile": {
+    "url": "/reserver",
+    "viewport": {
+      "name": "mobile",
+      "width": 375,
+      "height": 812
+    },
+    "docHeight": 3549,
+    "misc": {
+      "title": "AZOTE — Cuisine moléculaire · Lyon",
+      "bodyBg": "rgb(236, 231, 219)",
+      "htmlBg": "rgb(236, 231, 219)",
+      "bodyFont": "Fraunces, Georgia, serif",
+      "rootFontSize": "16px",
+      "fontsLoaded": {
+        "Fraunces": true,
+        "IBM Plex Mono": true,
+        "IBM Plex Sans": true
+      },
+      "h1": {
+        "text": "Réserver",
+        "font": "Fraunces, Georgia, serif",
+        "size": "38.4px",
+        "weight": "400",
+        "transform": "none"
+      },
+      "imgCount": 0,
+      "imgBroken": 0,
+      "imgs": [],
+      "accentColorUsageCount": 32,
+      "navLinks": [
+        "AZOTE.cuisine moléculaire",
+        "01La dégustation",
+        "02Le laboratoire",
+        "03Réserver"
+      ],
+      "dottedLeaderEls": 0,
+      "docHeight": 3549
+    },
+    "overflowAtTop": {
+      "viewport": 375,
+      "docScrollWidth": 375,
+      "bodyScrollWidth": 375,
+      "horizontalScroll": false,
+      "offenders": [],
+      "offenderCount": 0
+    },
+    "overflowAfterScroll": {
+      "viewport": 375,
+      "docScrollWidth": 375,
+      "bodyScrollWidth": 375,
+      "horizontalScroll": false,
+      "offenders": [],
+      "offenderCount": 0
+    },
+    "contrastIssues": [],
+    "consoleErrors": [],
+    "failedRequests": []
+  }
+}

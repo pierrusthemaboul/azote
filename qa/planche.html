@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8"><title>AZOTE — planche QA</title>
+<style>
+  html,body{margin:0;background:#101014;color:#eee;font:13px/1.4 system-ui,sans-serif}
+  h1{font-size:18px;margin:14px 16px 6px}
+  .page{margin:0 16px 18px;padding:10px 12px;border:1px solid #333;border-radius:8px}
+  .page h2{font-size:14px;margin:0 0 8px;color:#f0c060;font-weight:600}
+  .row{display:flex;gap:6px;align-items:flex-start;margin-bottom:6px}
+  .cell{display:flex;flex-direction:column;gap:3px}
+  .cell span{font-size:10px;color:#8ad}
+  img{display:block;border:1px solid #444;background:#fff}
+</style></head><body>
+<h1>AZOTE — planche QA (desktop 1440 puis mobile 375)</h1>
+<div id="out"></div>
+<script>
+const pages=[["home","Accueil"],["degustation","/degustation"],["laboratoire","/laboratoire"],["reserver","/reserver"]];
+const slices=["top","mid","bottom"];
+const out=document.getElementById('out');
+for(const [slug,label] of pages){
+  const div=document.createElement('div');div.className='page';
+  div.innerHTML='<h2>'+label+'</h2>';
+  for(const [vp,w] of [['desktop',430],['mobile',150]]){
+    const row=document.createElement('div');row.className='row';
+    for(const s of slices){
+      const c=document.createElement('div');c.className='cell';
+      c.innerHTML='<span>'+vp+' · '+s+'</span><img src="shots/'+slug+'__'+vp+'__'+s+'.png" width="'+w+'">';
+      row.appendChild(c);
+    }
+    div.appendChild(row);
+  }
+  out.appendChild(div);
+}
+</script></body></html>
